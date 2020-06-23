@@ -118,21 +118,21 @@
           <h2> Guidelines</h2>
           For this task, we have chosen conversations from movie scripts that constitute situations requiring contextualization. These are long conversations between one or more actors. One such example is the highlighted span of text (requiring contextualization) from the movie ‘12 angry men’ shown as follows:</p>
           <ul>
-              <li><p class='faq-list i'>NO2:</p> guilty. I thought it was obvious. I mean nobody proved otherwise.</li>
-              <li><p class='faq-list i'>NO8:</p> is on the prosecution. The defendant doesn’t have to open his mouth. That’s in the Constitution. <p class="text-success">The Fifth Amendment</p>. You’ve heard of it.</li>
-              <li><<p class='faq-list i'> </p> I... what I meant... well, anyway, I think he was guilty.</li>
+              <li><p class="text-">NO2:</p> guilty. I thought it was obvious. I mean nobody proved otherwise.</li>
+              <li><p class='text-info'>NO8:</p> is on the prosecution. The defendant doesn’t have to open his mouth. That’s in the Constitution. <p class="text-success">The Fifth Amendment</p>. You’ve heard of it.</li>
+              <li><<p class='text-info'> </p> I... what I meant... well, anyway, I think he was guilty.</li>
           </ul>
           With the main task of retrieving passages corresponding to a dialogue, we also ask the participants to participate optionally in a stand-alone information extraction (IE) task, where the objective would be to output the span of text corresponding to the information need. A participant could choose one or both of the tasks to participate.
           <ul>
-              <li><p class='faq-list i'>Task 1:</p> Given an excerpt of a dialogue act as shown in example above, output the span of text indicating a potential piece of information need (requiring contextualization), i.e., in case of the above example, output the text <p class="text-success">Fifth Amendment</p>.</li>
-              <li><p class='faq-list i'>Task 2:</p> Given an excerpt of a dialogue act (see above example), return a ranked list of passages containing information on the topic of the information need (requiring contextualization), i.e., with respect to the above example return passages from Wikipedia that contain information on the <p class="text-success">Fifth Amendment</p>.</li>
+              <li><p class='text-info'>Task 1:</p> Given an excerpt of a dialogue act as shown in example above, output the span of text indicating a potential piece of information need (requiring contextualization), i.e., in case of the above example, output the text <p class="text-success">Fifth Amendment</p>.</li>
+              <li><p class='text-info'>Task 2:</p> Given an excerpt of a dialogue act (see above example), return a ranked list of passages containing information on the topic of the information need (requiring contextualization), i.e., with respect to the above example return passages from Wikipedia that contain information on the <p class="text-success">Fifth Amendment</p>.</li>
         </ul>
      
         <h3>Evaluation Metrics</h3>
          <ul>
-              <li><p class='faq-list i'>Task 1:</p> For task-1 (information extraction), we will use the overlap of the ground-truth text span (e.g. ‘fifth amendment’) and the predicted text span (e.g. ‘Constitution. The Fifth Amendment’) with the Jacard coefficient measure. Exact match would lead to a Jacard coefficient of 1, and false positives or false negatives would penalize a predictive approach.
+              <li><p class='text-info'>Task 1:</p> For task-1 (information extraction), we will use the overlap of the ground-truth text span (e.g. ‘fifth amendment’) and the predicted text span (e.g. ‘Constitution. The Fifth Amendment’) with the Jacard coefficient measure. Exact match would lead to a Jacard coefficient of 1, and false positives or false negatives would penalize a predictive approach.
               </li>
-              <li><p class='faq-list i'>Task 2:</p> For task-2 (passage retrieval), we will use mean average precision (MAP) to compare and evaluate different approaches. This metric would favour systems that retrieve a higher number of relevant passages towards the top ranks.</li>
+              <li><p class='text-info'>Task 2:</p> For task-2 (passage retrieval), we will use mean average precision (MAP) to compare and evaluate different approaches. This metric would favour systems that retrieve a higher number of relevant passages towards the top ranks.</li>
         </ul>
         </div>
         <!--
