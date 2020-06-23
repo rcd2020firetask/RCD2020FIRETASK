@@ -122,26 +122,26 @@
           <p class="description">
           For this task, we have chosen conversations from movie scripts that constitute situations requiring contextualization. These are long conversations between one or more actors. One such example is the highlighted span of text (requiring contextualization) from the movie ‘12 angry men’ shown as follows:
           <div class="row">
-          <ul class='text-center' >
+          <ul class='text-left' >
             <font face='courier'>
-              <li><i class="text-info">NO2:</i> guilty. I thought it was obvious. I mean nobody proved otherwise.</li>
-              <li><i class='text-info'>NO8:</i> is on the prosecution. The defendant doesn’t have to open his mouth. That’s in the Constitution. <i class="p-3 mb-2 bg-success text-white">The Fifth Amendment</i>. You’ve heard of it.</li>
-              <li><i class='text-info'>NO2: </i> I... what I meant... well, anyway, I think he was guilty.</li>
+              <li><font color='red'> NO2:</font> guilty. I thought it was obvious. I mean nobody proved otherwise.</li>
+              <li><font color='blue'> NO8:</font>  is on the prosecution. The defendant doesn’t have to open his mouth. That’s in the Constitution. <font color='green'>The Fifth Amendment</font>. You’ve heard of it.</li>
+              <li><font color='red'> NO2:</font>  I... what I meant... well, anyway, I think he was guilty.</li>
             </font>
           </ul>
           </div>
           With the main task of retrieving passages corresponding to a dialogue, we also ask the participants to participate optionally in a stand-alone information extraction (IE) task, where the objective would be to output the span of text corresponding to the information need. A participant could choose one or both of the tasks to participate.
           <ul>
-              <li><i class='text-info'>Task 1:</i> Given an excerpt of a dialogue act as shown in example above, output the span of text indicating a potential piece of information need (requiring contextualization), i.e., in case of the above example, output the text <i class="p-3 mb-2 bg-success text-white">Fifth Amendment</i>.</li>
-              <li><i class='text-info'>Task 2:</i> Given an excerpt of a dialogue act (see above example), return a ranked list of passages containing information on the topic of the information need (requiring contextualization), i.e., with respect to the above example return passages from Wikipedia that contain information on the <i class="p-3 mb-2 bg-success text-white">Fifth Amendment</i>.</li>
+              <li><i class='text-info'>Task 1:</i> Given an excerpt of a dialogue act as shown in example above, output the span of text indicating a potential piece of information need (requiring contextualization), i.e., in case of the above example, output the text <font color='green'>Fifth Amendment</font>.</li>
+              <li><i class='text-info'>Task 2:</i> Given an excerpt of a dialogue act (see above example), return a ranked list of passages containing information on the topic of the information need (requiring contextualization), i.e., with respect to the above example return passages from Wikipedia that contain information on the <font color='green'>Fifth Amendment</font>.</li>
           </ul>
         </p>
         <h3>Evaluation Metrics</h3>
          <p class="description">
          <ul>
-              <li><i class='text-info'>Task 1:</i> For task-1 (information extraction), we will use the overlap of the ground-truth text span (e.g. ‘fifth amendment’) and the predicted text span (e.g. ‘Constitution. The Fifth Amendment’) with the Jacard coefficient measure. Exact match would lead to a Jacard coefficient of 1, and false positives or false negatives would penalize a predictive approach.
+              <li><font color='blue'>Task 1:</font> For task-1 (information extraction), we will use the overlap of the ground-truth text span (e.g. ‘fifth amendment’) and the predicted text span (e.g. ‘Constitution. The Fifth Amendment’) with the Jacard coefficient measure. Exact match would lead to a Jacard coefficient of 1, and false positives or false negatives would penalize a predictive approach.
               </li>
-              <li><i class='text-info'>Task 2:</i> For task-2 (passage retrieval), we will use mean average precision (MAP) to compare and evaluate different approaches. This metric would favour systems that retrieve a higher number of relevant passages towards the top ranks.</li>
+              <li><font color='blue'>Task 2:</font> For task-2 (passage retrieval), we will use mean average precision (MAP) to compare and evaluate different approaches. This metric would favour systems that retrieve a higher number of relevant passages towards the top ranks.</li>
         </ul>
          </p>
         <!--
