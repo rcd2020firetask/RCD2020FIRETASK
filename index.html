@@ -119,17 +119,15 @@
           For this task, we have chosen conversations from movie scripts that constitute situations requiring contextualization. These are long conversations between one or more actors. One such example is the highlighted span of text (requiring contextualization) from the movie ‘12 angry men’ shown as follows:</p>
           <ul>
               <li><p class='faq-list i'>NO2:</p> guilty. I thought it was obvious. I mean nobody proved otherwise.</li>
-              <li><p class='faq-list i'>NO8:</p> is on the prosecution. The defendant doesn’t have to open his mouth. That’s in the Constitution. <p class='call-to-action p'>The Fifth Amendment</p>. You’ve heard of it.</li>
+              <li><p class='faq-list i'>NO8:</p> is on the prosecution. The defendant doesn’t have to open his mouth. That’s in the Constitution. <p class="text-success">The Fifth Amendment</p>. You’ve heard of it.</li>
               <li><<p class='faq-list i'> </p> I... what I meant... well, anyway, I think he was guilty.</li>
           </ul>
           With the main task of retrieving passages corresponding to a dialogue, we also ask the participants to participate optionally in a stand-alone information extraction (IE) task, where the objective would be to output the span of text corresponding to the information need. A participant could choose one or both of the tasks to participate.
           <ul>
-              <li><p class='faq-list i'>Task 1:</p> Given an excerpt of a dialogue act as shown in example above, output the span of text indicating a potential piece of information need (requiring contextualization), i.e., in case of the above example, output the text <p class='call-to-action p'>Fifth Amendment</p>.</li>
-              <li><p class='faq-list i'>Task 2:</p> Given an excerpt of a dialogue act (see above example), return a ranked list of passages containing information on the topic of the information need (requiring contextualization), i.e., with respect to the above example return passages from Wikipedia that contain information on the <p class='call-to-action p'>Fifth Amendment</p>.</li>
+              <li><p class='faq-list i'>Task 1:</p> Given an excerpt of a dialogue act as shown in example above, output the span of text indicating a potential piece of information need (requiring contextualization), i.e., in case of the above example, output the text <p class="text-success">Fifth Amendment</p>.</li>
+              <li><p class='faq-list i'>Task 2:</p> Given an excerpt of a dialogue act (see above example), return a ranked list of passages containing information on the topic of the information need (requiring contextualization), i.e., with respect to the above example return passages from Wikipedia that contain information on the <p class="text-success">Fifth Amendment</p>.</li>
         </ul>
-      </div>
-
-        <div class='text-center'>
+     
         <h3>Evaluation Metrics</h3>
          <ul>
               <li><p class='faq-list i'>Task 1:</p> For task-1 (information extraction), we will use the overlap of the ground-truth text span (e.g. ‘fifth amendment’) and the predicted text span (e.g. ‘Constitution. The Fifth Amendment’) with the Jacard coefficient measure. Exact match would lead to a Jacard coefficient of 1, and false positives or false negatives would penalize a predictive approach.
@@ -181,23 +179,25 @@
 
         <div class="text-center">
           <h3>Task Data</h3>
-          <p>  The movie scripts that were chosen to depict situations requiring contextualization involve long conversations between one or more actors. For each movie script, we annotated a span of text that were manually assessed to be indicative of potential contextualization as shown in section above. 
-          We selected a number of play-style movie scripts for annotation, i.e. the ones which involve long dialogue acts for plot development. In total, we annotated 4 movie scripts, namely
+        </div>
+        <div>
+          <p class='text-left'>  The movie scripts that were chosen to depict situations requiring contextualization involve long conversations between one or more actors. For each movie script, we annotated a span of text that were manually assessed to be indicative of potential contextualization as shown in section above. 
+          We selected a number of play-style movie scripts for annotation, i.e. the ones which involve long dialogue acts for plot development. In total, we annotated 4 movie scripts, namely</p>
           <ul>
               <li>Pi </li>
               <li>12 angry men</li>
               <li>Good will hunting</li>
               <li>The name of the rose</li>
           </ul>
-          To facilitate easy participation in the task, we will indexed version of the collection. Currently, we have created a total of 50 information needs (represented as spans of text) from 4 movie scripts. For each annotated information need (query), we constructed a pool of passages by a combination of retrieval with a number of standard IR models, such as BM25, LM, DFR etc. Passages in the pool were assessed by the organizors with respect to each input dialogue.
+          <p class='text-left'>To facilitate easy participation in the task, we will indexed version of the collection. Currently, we have created a total of 50 information needs (represented as spans of text) from 4 movie scripts. For each annotated information need (query), we constructed a pool of passages by a combination of retrieval with a number of standard IR models, such as BM25, LM, DFR etc. Passages in the pool were assessed by the organizors with respect to each input dialogue.</p>
 
 
           <!--<a class="cta-btn" href="#">Call To Action</a>-->
         </div>
-        <div class='text-center'>
+        <div class='text-left'>
         In the training phase we will release 10 dialogue acts making explicitly available the annotated text spans to the participants by marking them up. The participants can then make use the dialogue in order to formulate queries for retrieving relevant passages. 
         </div>
-        <div class='text-center'>
+        <div class='text-left'>
         In the test phase, we will release only the entire dialogue act without the explicit annotation of the precise information need and the relevance judgments (to represent a more realistic situation). The participants are expected to develop and tune their methodologies on the training set and submit the results with optimal configurations of the system on the test set.
         </div>
 
