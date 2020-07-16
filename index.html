@@ -40,7 +40,7 @@
     <div class="container">
 
       <div class="logo float-left">
-        <h1 class="text-light"><a href="index.html"><span>Retrieaval from Conversational Dialogues (RCD) 2020</span></a></h1>
+        <h1 class="text-light"><a href="index.html"><span>RCD-2020</span></a></h1>
         <!-- Uncomment below if you prefer to use an image logo -->
         <!-- <a href="index.html"><img src="assets/img/logo.png" alt="" class="img-fluid"></a>-->
       </div>
@@ -208,6 +208,7 @@
           We selected a number of play-style movie scripts for annotation, i.e. the ones which involve long dialogue acts for plot development. In total, we annotated 4 movie scripts, namely</p>
           <div class="row">
           <div class="col-lg-12">
+            <center>
           <ul>
             <li><a href="https://www.imdb.com/title/tt0138704/">Pi</a> </li>
             <li><a href="https://www.imdb.com/title/tt0050083/">12 angry men</a></li>
@@ -215,8 +216,9 @@
             <li><a href="https://www.imdb.com/title/tt0091605/">The name of the rose</a></li>
             <!--li><a href="https://www.imdb.com/title/tt0049833">The Ten Commandments </a></li-->
           </ul>
+            </center>
           </div>
-            The text extracted from the movie script along with the <a href="https://brat.nlplab.org/">BRAT</a> formatted annotation file can be found
+            The text extracted from the movie script along with the <a href="https://brat.nlplab.org/">BRAT</a> formatted annotation file can be found&nbsp;
       <a href="https://github.com/rcd2020firetask/RCD2020FIRETASK/tree/master/dialogues">here</a>.         
           </div>
 
@@ -258,8 +260,44 @@ For task 1 the output will be in the format &lt;qid&gt; &lt;Tab&gt; &lt;Informat
         The link for test data set is here <a href="https://github.com/rcd2020firetask/RCD2020FIRETASK/blob/master/test.txt">Test Data</a>.
         </div-->
 
-        
-      </div>
+    <p class="text-left">
+    <h3> Run Submission Format </h3>
+    For each query in the <a href="https://github.com/rcd2020firetask/RCD2020FIRETASK/blob/master/test.txt">test topic file</a>, the participants need to submit automatically generated outputs one or both the tasks.
+
+    <ul>
+
+    <li><b>Task-1:</b> Participants need to submit a two column file where each line contains the query id and the predicted text span from the given description.
+    An example task-1 submission file looks like
+    <div align="center">
+    <pre>
+    1 [\t] That's in the Constitution. The Fifth Amendment.
+    4 [\t] cute little switchknife
+    ...
+    ...
+    </pre>
+    </div>
+    </div>
+    </li>
+
+    <li><b>Task-2:</b> Participants need to submit a standard TREC .res formatted file comprising of the following. The first column denotes query id (matches the ids of the test topics), the second is unused, the third is the retrieved document (Wiki passage) identifier, the fourth is the rank of this document (passage), the fifth is the similarity score and the sixth column denotes a run-name to distinguish between different runs (the run-name should be meaningful and representative of the method used to generate the run).
+    An example task-2 submission file looks like
+    <div align="center">
+    <pre>
+    1	Q0	10046153-34	1 13.23 BM25_termselection
+    1	Q0	10275774-4	2 12.58 BM25_termselection
+    ...
+    ...
+    2	Q0	5202223-19	1 7.64 BM25_termselection
+    2	Q0	527390-11	2 7.37 BM25_termselection
+    ...
+    ...
+    </pre>
+    </div>
+    </ul>    
+    </div>
+    </li>
+    </ul>
+
     </section><!-- End Call To Action Section -->
 
     <!-- ======= Our Portfolio Section ======= -->
