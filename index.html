@@ -40,7 +40,7 @@
     <div class="container">
 
       <div class="logo float-left">
-        <h1 class="text-light"><a href="index.html"><span>Retrieval from Conversational Dialogues (RCD), A FIRE-2020 Task</span></a></h1>
+        <h1 class="text-light"><a href="index.html"><span>Retrieaval from Conversational Dialogues (RCD) 2020</span></a></h1>
         <!-- Uncomment below if you prefer to use an image logo -->
         <!-- <a href="index.html"><img src="assets/img/logo.png" alt="" class="img-fluid"></a>-->
       </div>
@@ -50,7 +50,7 @@
           <li class="active"><a href="#header">Home</a></li>
           <li><a href="#about">Task Description</a></li>
           <li><a href="#services">Guidelines</a></li>
-          <li><a href="#portfolio">Task Data</a></li>
+          <li><a href="#portfolio">Dataset</a></li>
           <li><a href="#team">Organizers</a></li>
           <li><a href="#results">Results</a></li>
           <li><a href="#contact">Contact Us</a></li>
@@ -90,7 +90,7 @@
             </p>
             <h3>Description</h3>
             <p class="description">
-            The objective of the proposed track is to automatically contextualize two-party or multi-party dialogue systems. We explore the utility of IR systems to retrieve more information about entities discussed in interactive dialogues. To study the problem under a laboratory-based reproducible setting, we propose a number of simplifications. First, since collecting multi-party chat dialogues can lead to individual privacy concerns, items requiring contextualization. Using movie scripts as a starting point, the task requries participants to retrieve relevant information from wikipedia given a dialogue span from a given movie script. The task of the participant is to retrieve a ranked list of documents given a part of a movie script dialogue. The annotated span of text (i.e. the one requiring contextualization) will not be disclosed to the participants. Instead, they need to estimate the information need from the given conversation act. As an example, given the excerpt of the example script from the movie ‘12 angry men’, a simple approach would be to execute the whole script as a query and retrieve a ranked list of documents from a collection. Participants are encouraged to explore different methods to identify/formulate the query from the dialogue and then proceed with the retrieval step.
+            The objective of the proposed track, to be organized as a part of <a href="http://fire.irsi.res.in/fire/2020/home">FIRE 2020</a>, is to automatically contextualize two-party or multi-party dialogue systems. We explore the utility of IR systems to retrieve more information about entities discussed in interactive dialogues. To study the problem under a laboratory-based reproducible setting, we propose a number of simplifications. First, since collecting multi-party chat dialogues can lead to individual privacy concerns, items requiring contextualization. Using movie scripts as a starting point, the task requries participants to retrieve relevant information from wikipedia given a dialogue span from a given movie script. The task of the participant is to retrieve a ranked list of documents given a part of a movie script dialogue. The annotated span of text (i.e. the one requiring contextualization) will not be disclosed to the participants. Instead, they need to estimate the information need from the given conversation act. As an example, given the excerpt of the example script from the movie ‘12 angry men’, a simple approach would be to execute the whole script as a query and retrieve a ranked list of documents from a collection. Participants are encouraged to explore different methods to identify/formulate the query from the dialogue and then proceed with the retrieval step.
            </p>
            <p class="description">
             The task itself is that of ad-hoc passage retrieval (albeit without and explicitly entered keyword-style query). The collection from which passages are to be retrieved for contextualization is the Wikipedia collection (dump from 2019), which we will release as a part of the collection. Each document in the Wikipedia collection is comprised of explicitly marked-up passages (in the form of the paragraph tags). The retrievable units in our task are the passages (instead of whole documents).
@@ -161,7 +161,8 @@
       
       During the training phase, we will release two pieces of information, namely i) a conversation piece from a movie script and ii) the span of text
       comprising the concept requiring contextualization. 
-      During the test phase, we will release only the conversation piece. Participants in Task-1
+      During the test phase, we will release only the conversation piece.
+      Participants in Task-1
       would then need to find the relevant piece of text from a given conversation, e.g. find 'Fifth Amendment' from the text excerpt in the above example.
       Participants in Task-2 only may not need to explicitly find 'Fifth Amendment' from the text. Rather they need to find documents (Wiki passages) from
       the given collection that provide information on this particular topic. 
@@ -215,23 +216,47 @@
             <!--li><a href="https://www.imdb.com/title/tt0049833">The Ten Commandments </a></li-->
           </ul>
           </div>
+            The text extracted from the movie script along with the <a href="https://brat.nlplab.org/">BRAT</a> formatted annotation file can be found
+      <a href="https://github.com/rcd2020firetask/RCD2020FIRETASK/tree/master/dialogues">here</a>.         
           </div>
-          <p class='text-left'>To facilitate easy participation in the task, we will indexed version of the collection. Currently, we have created a total of 50 information needs (represented as spans of text) from 4 movie scripts. For each annotated information need (query), we constructed a pool of passages by a combination of retrieval with a number of standard IR models, such as BM25, LM, DFR etc. Passages in the pool were assessed by the organizors with respect to each input dialogue.</p>
 
+          <p class='text-left'>
+            <!--To facilitate easy participation in the task, we will indexed version of the collection.-->
+        The dataset for this track comprises of:
+        <ul>
+        <li> <b>Document Collection</b>: The objective in this track (Task-2) is to retrieve a ranked list of Wikipedia passages. We release a pre-processed version of Wikipedia
+dump, where we have enclosed each paragraph of a Wikipedia page into separate XML tags. Each tag is assigned a unique identifier. The basic retrieval unit for this ranking
+task is hence a Wikipedia passage. Note that it's up to you if you want to treat the passages as units contained within a document or treat them independently while ranking them.
+Each passage has been (and will be) judged independently. You can download our pre-processed Wikipedia collection from this
+<a href="https://drive.google.com/file/d/1JgiYwTXMkoAUaWzgDeL7LQP5r-G-ReAM/view?usp=sharing">Google drive link</a>.
+        </li>
+        <li> <b> Queries/Topics: </b> A query for the ranking task contains a dialog piece from a movie. The topic file is similar in structure to a standard TREC query.
+        Each query (topic) starts with a <b>topic</b> tag. The <b>num</b> tag assigns a unique identifier to the topic. You have to use these ids in the output <b>results</b>
+file (more on this later). Each topic has a <b>desc</b> tag which contains a list of dialogues enclosed within '<b>p</b>' tags. Each 'p' tag indicates a change of speaker.
+Some topics have identical description fields because while annotating we identified multiple concepts from the same dialog piece that may require contextualization.
+In such a case, the one with a smaller number is associated to the concept which occurs in the text before the other corresponding to the larger number.
+In addition to the 'desc' field, the training topics contains an additional <b>title </b> field which describes the exact span of text representing the information need.
+We make this information available for the participants to get an idea about the types of text spans that would typically require contextualization from dialog streams.
 
-          <!--<a class="cta-btn" href="#">Call To Action</a>-->
-        </div>
-        <div class='text-left'>
+        </li>
+        <li><b>Relevance Judgments: </b> For the training set of topics, we release a <b>TREC qrel</b> formatted file with 4 white-space separated columns, the first column
+denoting query id, the second unused, the third - a string denoting the passage (basic retrieval unit) identifier and the fourth indicating the relevance label (1/0) in our case.
+The training topics along with the relevance judgments can be downloaded from this <a href="https://github.com/rcd2020firetask/RCD2020FIRETASK/tree/master/Train">link to training data</a>. To obtain the relevance assessments, we constructed a pool of passages by a combination of retrieval with a number of standard IR models, such as BM25, LM, DFR etc. Passages in the pool were assessed by the organizors with respect to each input dialogue. For test topics, we will add the documents collected from the participating systems in the pool and
+reevaluate the extended pool.
+        </li>
+        </ul>
+        </p>
+
+        <!--div class='text-left'>
         In the training phase we release 25 dialogue acts making explicitly available the annotated text spans to the participants by marking them up. The participants can then make use the dialogue in order to formulate queries for retrieving relevant passages. 
-        The link for movie script is here
-      <a href="https://github.com/rcd2020firetask/RCD2020FIRETASK/tree/master/dialogues">Movie Script</a>. The link for training data and the corresponding qrel set is given here <a href="https://github.com/rcd2020firetask/RCD2020FIRETASK/tree/master/Train">Contextual Data For Training</a>.
-        For task 1 the output will be in the format &lt;qid&gt; &lt;Tab&gt; &lt;Information Need&gt;. Each topic will be in newline. For task 1 the link for the wikipedia collection is here <a href="https://drive.google.com/file/d/1JgiYwTXMkoAUaWzgDeL7LQP5r-G-ReAM/view?usp=sharing">Wikipedia Collection</a>.
+For task 1 the output will be in the format &lt;qid&gt; &lt;Tab&gt; &lt;Information Need&gt;. Each topic will be in newline. For task 1 the link for the wikipedia collection is here <a href="https://drive.google.com/file/d/1JgiYwTXMkoAUaWzgDeL7LQP5r-G-ReAM/view?usp=sharing">Wikipedia Collection</a>.
         For Task 2, the output format will be same as trec result format. 
-        </div>
-        <div class='text-left'>
+        </div-->
+
+        <!--div class='text-left'>
         In the test phase, we will release only the entire dialogue act without the explicit annotation of the precise information need and the relevance judgments (to represent a more realistic situation). The participants are expected to develop and tune their methodologies on the training set and submit the results with optimal configurations of the system on the test set.
         The link for test data set is here <a href="https://github.com/rcd2020firetask/RCD2020FIRETASK/blob/master/test.txt">Test Data</a>.
-        </div>
+        </div-->
 
         
       </div>
