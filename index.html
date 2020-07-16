@@ -120,7 +120,10 @@
           <h2> Guidelines</h2>
         </div>
           <p class="description">
-          For this task, we have chosen conversations from movie scripts that constitute situations requiring contextualization. These are long conversations between one or more actors. One such example is the highlighted span of text (requiring contextualization) from the movie ‘12 angry men’ shown as follows:
+          For the RCD track, we have chosen conversations from movie scripts that constitute situations requiring contextualization.
+            These are long conversations between one or more actors.
+            One such example is the highlighted span of text (requiring contextualization) from the movie <a href="https://www.imdb.com/title/tt0050083/">12 angry men</a>
+            as shown below.
           <div class="row">
           <ul class='text-center' >
             <font face='courier'>
@@ -130,12 +133,42 @@
             </font>
           </ul>
           </div>
-          With the main task of retrieving passages corresponding to a dialogue, we also ask the participants to participate optionally in a stand-alone information extraction (IE) task, where the objective would be to output the span of text corresponding to the information need. A participant could choose one or both of the tasks to participate.
+        In the above piece of conversation example, the goal is to develop a system that will identify that Fifth Amendment is the piece of text that may
+        require contextualization, and retrieve a ranked list of Wikipedia passages corresponding to this concept.
+        
+        <h3> Tasks </h3> 
+        There are two separate tasks. Each team can participate in any one or both the tasks. The first task is mainly an NLP one whereas the second one
+        pertains mainly to finding effective search techniques suitable for this problem. 
+        <br>
+        
+        <!--With the main task of retrieving passages corresponding to a dialogue, we also ask the participants to participate optionally
+        in a stand-alone information extraction (IE) task, where the objective would be to output the span of text corresponding to the information need.
+        A participant could choose one or both of the tasks to participate.-->
+        Following are the two tasks. 
           <ul>
-              <li><font color='blue'>Task 1:</font>  Given an excerpt of a dialogue act as shown in example above, output the span of text indicating a potential piece of information need (requiring contextualization), i.e., in case of the above example, output the text <font color='green'>Fifth Amendment</font>.</li>
-              <li><font color='blue'>Task 2:</font> Given an excerpt of a dialogue act (see above example), return a ranked list of passages containing information on the topic of the information need (requiring contextualization), i.e., with respect to the above example return passages from Wikipedia that contain information on the <font color='green'>Fifth Amendment</font>.</li>
+              <li><font color='blue'>Task 1:</font>  Given an excerpt of a dialogue act as shown in example above, output the span of text indicating
+                a potential piece of information need (requiring contextualization), i.e., in case of the above example,
+                output the text <font color='green'>Fifth Amendment</font>.</li>
+              <li><font color='blue'>Task 2:</font> Given an excerpt of a dialogue act (see above example),
+                return a ranked list of passages containing information on the topic of the information need (requiring contextualization),
+                i.e., with respect to the above example return passages from Wikipedia that contain information on the
+                <font color='green'>Fifth Amendment</font>.</li>
           </ul>
         </p>
+      
+      <h5>Training and Test Phases </h5>
+      
+      During the training phase, we will release two pieces of information, namely i) a conversation piece from a movie script and ii) the span of text
+      comprising the concept requiring contextualization. During the test phase, we will release only the conversation piece. Participants in Task-1
+      would then need to find the relevant piece of text from a given conversation, e.g. find 'Fifth Amendment' from the text excerpt in the above example.
+      Participants in Task-2 only may not need to explicitly find 'Fifth Amendment' from the text. Rather they need to find documents (Wiki passages) from
+      the given collection that provide information on this particular topic. 
+      
+        Although the tasks are independent, we believe that scoring well on Task-1 will benefit the effectiveness of Task-2 as well. This is because,
+      as the given conversation context may be quite diverse in terms of topics, identifying a suitable topic could help to construct a well-formed
+      query that could help retrieve a more focussed list of documents. A too verbose query on the other hand (a simple approach could be to use the
+      entire context as the query) may not retrieve relevant documents corresponding to the information need (Fifth Amendment in the example).
+      
         <h3>Evaluation Metrics</h3>
          <p class="description">
          <ul>
