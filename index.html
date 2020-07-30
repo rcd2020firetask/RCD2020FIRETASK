@@ -231,6 +231,7 @@ dump, where we have enclosed each paragraph of a Wikipedia page into separate XM
 task is hence a Wikipedia passage. Note that it's up to you if you want to treat the passages as units contained within a document or treat them independently while ranking them.
 Each passage has been (and will be) judged independently. You can download our pre-processed Wikipedia collection from this
 <a href="https://drive.google.com/file/d/1JgiYwTXMkoAUaWzgDeL7LQP5r-G-ReAM/view?usp=sharing">Google drive link</a>.
+          
         </li>
         <li> <b> Queries/Topics: </b> A query for the ranking task contains a dialog piece from a movie. The topic file is similar in structure to a standard TREC query.
         Each query (topic) starts with a <b>topic</b> tag. The <b>num</b> tag assigns a unique identifier to the topic. You have to use these ids in the output <b>results</b>
@@ -248,6 +249,7 @@ For test topics, we will add the documents collected from the participating syst
 reevaluate the extended pool.
         </li>
         </ul>
+          
         </p>
 
         <!--div class='text-left'>
@@ -296,6 +298,45 @@ For task 1 the output will be in the format &lt;qid&gt; &lt;Tab&gt; &lt;Informat
     </ul>    
     </div>
 
+    Note that since the retrievable units for our track are Wikipedia passages (not documents), in the collection provided we have assigned unique identifiers
+      to passages. The naming convention for a passage is <b>doc number</b>-</b>passage offset</b>, i.e. two integers separated by a hyphen character.
+    Task-2 participants will be required to print these identifiers in the third column of the run submission file. Using other arbitrary identifiers
+    would not enable us to match the relevant retrieved passages from the ones in the qrel file. A sample XML excerpt for a Wikipedia document, titled
+<a href="https://en.wikipedia.org/wiki/Anarchism">Anarchism</a> is shown below. 
+      
+<textarea rows="35" cols="80" style="border:none;">
+<doc>
+ <docno> 2 </docno>
+<page>
+<p>
+ <pno> 2-1 </pno>
+    <title>Anarchism</title>
+    <ns>0</ns>
+    <id>12</id>
+    <revision>
+      <id>918470367</id>
+      <parentid>918111101</parentid>
+      <timestamp>2019-09-28T20:40:50Z</timestamp>
+      <contributor>
+        <username>Brainulator9</username>
+        <id>11191612</id>
+      </contributor>
+      <comment>/* Sources */Remove redundant |year= parameter from CS1 citations;</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">{{good article}}
+{{redirect2|Anarchist|Anarchists|other uses|Anarchists (disambiguation)}}
+{{pp-move-indef}}
+{{short description|Political philosophy that advocates self-governed societies}}
+{{use dmy dates|date=July 2018}}
+{{use British English|date=January 2014}}
+{{anarchism sidebar}}
+{{basic forms of government}}
+'''Anarchism''' is an [[Anti-authoritarianism|anti-authoritarian]] [[political philosophy]]{{sfnm|1a1=McLaughlin|1y=2007|1p=59|2a1=Flint|2y=2009|2p=27}} that rejects [[Hierarchy|hierarchies]] deemed unjust and advocates their replacement with [[Workers' self-management|self-managed]], [[Self-governance|self-governed]] societies based on voluntary, [[cooperative]] institutions. These institutions are often described as [[Stateless society|stateless societies]],{{sfnm|1a1=Sheehan|1y=2003|1p=85|2a1=Craig|2y=2005|2p=14}} although several authors have defined them more specifically as distinct institutions based on non-hierarchical or [[Free association (communism and anarchism)|free associations]].{{sfn|Suissa|2006|p=7}} Anarchism's central disagreement with other ideologies is that it holds the [[Sovereign state|state]] to be undesirable, unnecessary, and harmful.{{sfnm|1a1=McLean|1a2=McMillan|1y=2003|loc=Anarchism|2a1=Craig|2y=2005|2p=14}}
+</p>
+</textarea>
+      
+      
     </section><!-- End Call To Action Section -->
 
     <!-- ======= Our Portfolio Section ======= -->
