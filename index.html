@@ -94,7 +94,7 @@
             The objective of the proposed track, to be organized as a part of <a href="http://fire.irsi.res.in/fire/2020/home">FIRE 2020</a>, is to automatically contextualize two-party or multi-party dialogue systems. We explore the utility of IR systems to retrieve more information about entities discussed in interactive dialogues. To study the problem under a laboratory-based reproducible setting, we propose a number of simplifications. First, since collecting multi-party chat dialogues can lead to individual privacy concerns, items requiring contextualization. Using movie scripts as a starting point, the task requires participants to retrieve relevant information from wikipedia given a dialogue span from a movie script. The task of the participants is to identify important or central entities in a span of movie dialogues and to subsequently retrieve a list of passages that provide more context or information about entities in that span. The annotated span of text (i.e. the one requiring contextualization) will not be disclosed to the participants. Instead, they need to estimate the information need from the given conversation. As an example, given the excerpt of the example script from the movie ‘12 angry men’, a simple approach would be to execute the whole script as a query and retrieve a ranked list of documents from a collection. Participants are encouraged to explore different methods to identify/formulate the query from the dialogue and then proceed with the retrieval step. 
            </p>
            <p class="description">
-            The participants shall be provided with a manually annotated sample of dialogue spans extracted from four movie scripts along with entire movie scripts. The collection from which passages are to be retrieved for contextualization is the Wikipedia collection (dump from 2019). Each document in the Wikipedia collection is composed of explicitly marked-up passages (in the form of the paragraph tags). The retrievable units in our task are the passages (instead of whole documents).
+            The participants are provided with a manually annotated sample of dialogue spans extracted from four movie scripts along with entire movie scripts. The collection from which passages are to be retrieved for contextualization is the Wikipedia collection (dump from 2019). Each document in the Wikipedia collection is composed of explicitly marked-up passages (in the form of the paragraph tags). The retrievable units in our task are the passages (instead of whole documents).
             </p>
             <!--
             <ul>
@@ -230,8 +230,19 @@
         <li> <b>Document Collection</b>: The objective in this track (Task-2) is to retrieve a ranked list of Wikipedia passages. We release a pre-processed version of Wikipedia
 dump, where we have enclosed each paragraph of a Wikipedia page into separate XML tags. Each tag is assigned a unique identifier. The basic retrieval unit for this ranking
 task is hence a Wikipedia passage. Note that it's up to you if you want to treat the passages as units contained within a document or treat them independently while ranking them.
-Each passage has been (and will be) judged independently. You can download our pre-processed Wikipedia collection from this
+Each passage has been (and will be) judged independently.
+          
+          <p class='text-left>There are two options for the collection that you can download.
+          <ul>
+          <li> A TREC formatted markup document that for the passage demarcated Wikipedia collection from this
 <a href="https://drive.google.com/file/d/1JgiYwTXMkoAUaWzgDeL7LQP5r-G-ReAM/view?usp=sharing">Google drive link</a>.
+          </li>
+          <li> A more simplified format (a tab separated file text file) containing the passage id in the first column and passage content in the second.
+                    You can get the gzipped file from <a href="https://drive.google.com/file/d/1iujCKja301ciGnk3nvErUJebF7_Tc7pD/view?usp=sharing">this Google drive link</a>.
+          </li>
+          </ul>
+          </p>
+          
           A sample mavenized Lucene project to help the participants get started with indexing and retrieval can be found
           <a href="https://github.com/gdebasis/luc4ir">here</a>.
           
@@ -529,7 +540,7 @@ For task 1 the output will be in the format &lt;qid&gt; &lt;Tab&gt; &lt;Informat
             computing the overlap with the ground-truth.
           </p>
             
-            <p class='text-center'>
+            <p class='text-center'><font face='courier'>
             Mr. Cohen? Mr. Cohen? Please stop for a second Mr. Cohen?
 Damn it already! Stop following me. I'm not interested in your money. I'm searching for a way to understand our world. I'm searching for perfection. I don't deal with mediocre materialistic people like you!
 I'm sorry. I'm very sorry. I admit I've been a bit too aggressive. But all I ask is for five minutes of your time. Here...
@@ -542,7 +553,7 @@ Allow me to dose.
 As a sign of good faith we wish to offer you this.
 I told you I don't want money.
 The suitcase isn't filled with fifties or gold or diamonds. Just silicon. <font color="blue">A Ming Mecca chip</font>.  
-            </p>
+              </font></p>
           <p class='text-left'>          
             To reproduce the results, simply use the script implemented <a href="https://github.com/gdebasis/luc4ir/blob/master/rcd/eval.sh"></a>. Go through
             the github readme to set up your environment. The script as one of the sample runs provides an example from one of the runs that we received
