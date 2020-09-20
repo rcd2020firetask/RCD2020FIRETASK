@@ -459,9 +459,8 @@ For task 1 the output will be in the format &lt;qid&gt; &lt;Tab&gt; &lt;Informat
 
         <div class="section-title">
           <h2>Results</h2>
-          <center>
           <p>Results for Task 1:</p>          
-          <p>
+          <p class='text-left'>
             We got the runs from a single participating team - Adapt Centre (DCU). The team submitted 5 runs for tasks 1 and 2. The following are the results,
             measued in terms of weighted BLEU scores, for task 1. More concretely, a variant of the <a href="https://en.wikipedia.org/wiki/BLEU>"BLEU score</a> is
             computed to measure the overlap between the predicted and the ground-truth of the information need nugget arising out of every conversational context.
@@ -476,6 +475,7 @@ For task 1 the output will be in the format &lt;qid&gt; &lt;Tab&gt; &lt;Informat
 .tg .tg-baqh{text-align:center;vertical-align:top}
 .tg .tg-amwm{font-weight:bold;text-align:center;vertical-align:top}
 </style>
+<center>
 <table class="tg">
 <thead>
   <tr>
@@ -514,22 +514,22 @@ For task 1 the output will be in the format &lt;qid&gt; &lt;Tab&gt; &lt;Informat
 </table>
             </center>
         </div>
-        <div align="center">
-          <p>
+        <div>
+          <p class='text-left'>
         The ground-truth for task-1 for the test set topics (comprising of information need requiring Wikification) can be found in the following
           <a href="https://drive.google.com/file/d/17PUCjOPkRZpjydPMrQYCHmbOURyHWuBw/view?usp=sharing">TREC topic formatted file</a>.
           The <b>desc</b> field contains a piece of conversation (from a movie), whereas the <b>title</b> field contains the annotated piece of ground-truth
           text forming the unit of information need.
           </p>
           
-          <p>
+          <p class='text-left'>
           While evaluating the results, we took into account overlap for each individual conversational piece (and importantly, not on individual information need unit).
             For example, in the following conversational piece there are two instances of information unit, namely <b>acacia tree</b> and <b>Ming Mecca chip</b>.
             The reference string for this piece is considered to be the concatenation of these two. Also, the predictions for these two topics are concatenated for
             computing the overlap with the ground-truth.
+          </p>
             
-            <br>
-            <p>
+            <p class='text-center'>
             Mr. Cohen? Mr. Cohen? Please stop for a second Mr. Cohen?
 Damn it already! Stop following me. I'm not interested in your money. I'm searching for a way to understand our world. I'm searching for perfection. I don't deal with mediocre materialistic people like you!
 I'm sorry. I'm very sorry. I admit I've been a bit too aggressive. But all I ask is for five minutes of your time. Here...
@@ -543,15 +543,14 @@ As a sign of good faith we wish to offer you this.
 I told you I don't want money.
 The suitcase isn't filled with fifties or gold or diamonds. Just silicon. <font color="blue">A Ming Mecca chip</font>.  
             </p>
-          </p>
-          <p>          
+          <p class='text-left'>          
             To reproduce the results, simply use the script implemented <a href="https://github.com/gdebasis/luc4ir/blob/master/rcd/eval.sh"></a>. Go through
             the github readme to set up your environment. The script as one of the sample runs provides an example from one of the runs that we received
             as a part of the official submission. Put all your runs that you want to evaluate in a folder, put its name in the script and you should be able to
             compute the BLEU metric.
           </p>
         
-        <p>
+        <p class='text-left'>
           The script uses two pieces of information -
           a) the annotated text for each topic (see <a href="https://github.com/gdebasis/luc4ir/blob/master/rcd/rels_task1.tsv">here</a>) and
           b) the equivalence relation of the topics (see <a href="https://github.com/gdebasis/luc4ir/blob/master/rcd/equiv.txt">here</a>) - to compute the overlap.          
