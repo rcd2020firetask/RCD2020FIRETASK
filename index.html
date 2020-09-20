@@ -407,10 +407,10 @@ For task 1 the output will be in the format &lt;qid&gt; &lt;Tab&gt; &lt;Informat
 
         <ul>
 
-        <li><strike>Training Data Release</strike> (<a href="https://github.com/rcd2020firetask/RCD2020FIRETASK/tree/master/Train">Download link</a>)-	16th July, 2020   </li> 
-        <li><strike>Test Data Release</strike> (<a href="https://github.com/rcd2020firetask/RCD2020FIRETASK/blob/master/test.txt">Download link</a>) -	16th July, 2020</li>
-        <li>Run Submission Deadline -	5th September, 2020</li>
-        <li>Results Declaration -	15th September, 2020</li>
+        <li><strike>Training Data Release</strike> (<a href="https://github.com/rcd2020firetask/RCD2020FIRETASK/tree/master/Train">Download link</a>)-	16th July, 2020   &nbsp;&#10003;</li> 
+        <li><strike>Test Data Release</strike> (<a href="https://github.com/rcd2020firetask/RCD2020FIRETASK/blob/master/test.txt">Download link</a>) -	16th July, 2020 &nbsp;&#10003;</li>
+        <li>Run Submission Deadline -	5th September, 2020 &nbsp;&#10003;</li>
+        <li>Results Declaration -	15th September, 2020 &nbsp;&#10003;</li>
         <li>Working Note Submission -	8th October, 2020</li>
         <li>Review Notifications -	25th October, 2020</li>
         <li>Final Version of Working Note - 5th November, 2020    </li>    
@@ -459,8 +459,13 @@ For task 1 the output will be in the format &lt;qid&gt; &lt;Tab&gt; &lt;Informat
 
         <div class="section-title">
           <h2>Results</h2>
-          <p>Results for Task 1</p>
           <center>
+          <p>Results for Task 1:</p>          
+          <p>
+            We got the runs from a single participating team - Adapt Centre (DCU). The team submitted 5 runs for tasks 1 and 2. The following are the results,
+            measued in terms of weighted BLEU scores, for task 1. More concretely, a variant of the <a href="https://en.wikipedia.org/wiki/BLEU>"BLEU score</a> is
+            computed to measure the overlap between the predicted and the ground-truth of the information need nugget arising out of every conversational context.
+            Instead of the word n-grams, as used in the machine translation BLEU scores, we use weighted character n-grams (n=3,4,5) with more weight put on higher values of n.            
          <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -476,7 +481,7 @@ For task 1 the output will be in the format &lt;qid&gt; &lt;Tab&gt; &lt;Informat
   <tr>
     <th class="tg-1wig">Team Name</th>
     <th class="tg-amwm">Run Name</th>
-    <th class="tg-1wig">Weighted BlEU Score</th>
+    <th class="tg-1wig">Weighted BLEU Score</th>
   </tr>
 </thead>
 <tbody>
@@ -509,6 +514,51 @@ For task 1 the output will be in the format &lt;qid&gt; &lt;Tab&gt; &lt;Informat
 </table>
             </center>
         </div>
+        <div align="center">
+          <p>
+        The ground-truth for task-1 for the test set topics (comprising of information need requiring Wikification) can be found in the following
+          <a href="https://drive.google.com/file/d/17PUCjOPkRZpjydPMrQYCHmbOURyHWuBw/view?usp=sharing">TREC topic formatted file</a>.
+          The <b>desc</b> field contains a piece of conversation (from a movie), whereas the <b>title</b> field contains the annotated piece of ground-truth
+          text forming the unit of information need.
+          </p>
+          
+          <p>
+          While evaluating the results, we took into account overlap for each individual conversational piece (and importantly, not on individual information need unit).
+            For example, in the following conversational piece there are two instances of information unit, namely <b>acacia tree</b> and <b>Ming Mecca chip</b>.
+            The reference string for this piece is considered to be the concatenation of these two. Also, the predictions for these two topics are concatenated for
+            computing the overlap with the ground-truth.
+            
+            <br>
+            <p>
+            Mr. Cohen? Mr. Cohen? Please stop for a second Mr. Cohen?
+Damn it already! Stop following me. I'm not interested in your money. I'm searching for a way to understand our world. I'm searching for perfection. I don't deal with mediocre materialistic people like you!
+I'm sorry. I'm very sorry. I admit I've been a bit too aggressive. But all I ask is for five minutes of your time. Here...
+...a stopwatch. Already ticking. Allow me the four and a half minutes left Let me tell you what I want. Let me tell you what I can offer you. Afterwards, if you don't want to talk to me, then fine, we part as friends and I promise that you will never see me again. That's fair, isn't it?
+Go.
+Good. It's funny, even though we have different aims and different goals we're actually incredibly alike. We both seek the same thing—perfection. I know... clearly we're seeking different types of perfection, but that is what makes us perfect candidates for a fruitful partnership. If you let me, I can be your greatest ally.
+              Take the <font color="red">acacia tree</font>...in East Africa. It is the most prevalent plant in all of Kenya because it has managed to secure its niche by defeating its major predator, the giraffe. To accomplish this, the tree has made a contract with a highly specialized red ant. The tree has evolved giant spores which act as housing for the ants In return for shelter, the ants supply defense. When a giraffe starts to eat the tree's leaves, the shaking branch acts like an alarm. The ants charge out and secrete an acid onto the giraffe's tongue. The giraffe learns its lesson and never returns. Without each other, the tree would be picked dry and the ants would have no shade from the brutal African sun Both would die. But with each other, they succeed, they survive, they surpass. They have different aims, different goals but they work together. Max, we would like to establish a mutually benefiting alliance with you.
+I'm not interested.
+Allow me to dose.
+As a sign of good faith we wish to offer you this.
+I told you I don't want money.
+The suitcase isn't filled with fifties or gold or diamonds. Just silicon. <font color="blue">A Ming Mecca chip</font>.  
+            </p>
+          </p>
+          <p>          
+            To reproduce the results, simply use the script implemented <a href="https://github.com/gdebasis/luc4ir/blob/master/rcd/eval.sh"></a>. Go through
+            the github readme to set up your environment. The script as one of the sample runs provides an example from one of the runs that we received
+            as a part of the official submission. Put all your runs that you want to evaluate in a folder, put its name in the script and you should be able to
+            compute the BLEU metric.
+          </p>
+        
+        <p>
+          The script uses two pieces of information -
+          a) the annotated text for each topic (see <a href="https://github.com/gdebasis/luc4ir/blob/master/rcd/rels_task1.tsv">here</a>) and
+          b) the equivalence relation of the topics (see <a href="https://github.com/gdebasis/luc4ir/blob/master/rcd/equiv.txt">here</a>) - to compute the overlap.          
+        </p>
+          
+        </div>
+        
         </div>
         </section>
     <!-- ======= Our Team Section ======= -->
