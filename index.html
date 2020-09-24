@@ -53,6 +53,7 @@
           <li><a href="#portfolio">Dataset</a></li>
           <li><a href="#team">Organizers</a></li>
           <li><a href="#results">Important Dates</a></li>
+          <li><a href="#contact1">Results</a></li>
           <li><a href="#contact">Contact Us</a></li>
         </ul>
       </nav><!-- .nav-menu -->
@@ -86,14 +87,14 @@
           <div class="col-lg-6 pt-4 pt-lg-0 order-2 order-lg-1">
             <h3>Motivation</h3>
             <p class="description">
-            Application of Information retrieval (IR) systems in dialogue based interactive systems has increasingly drawn attention from the research community. IR systems are used to retrieve relevant documents or passages towards constructing an answer for a query/question seeking information on a particular topic during an interactive dialogue between two entities. For example, the image on the right shows an example of one such dialogue with additional contextual information about the entity discussed during the converstion. 
+            Application of Information retrieval (IR) systems in dialogue based interactive systems has increasingly drawn attention from the research community. IR systems can be used to retrieve relevant information that can be used either for system generated answers or to add more context about a particular topic during an interactive dialogue between two entities. We explore the utility of IR systems to retrieve more information about entities discussed in interactive dialogues in this task.
             </p>
             <h3>Description</h3>
             <p class="description">
-            The objective of the proposed track, to be organized as a part of <a href="http://fire.irsi.res.in/fire/2020/home">FIRE 2020</a>, is to automatically contextualize two-party or multi-party dialogue systems. We explore the utility of IR systems to retrieve more information about entities discussed in interactive dialogues. To study the problem under a laboratory-based reproducible setting, we propose a number of simplifications. First, since collecting multi-party chat dialogues can lead to individual privacy concerns, items requiring contextualization. Using movie scripts as a starting point, the task requries participants to retrieve relevant information from wikipedia given a dialogue span from a given movie script. The task of the participant is to retrieve a ranked list of documents given a part of a movie script dialogue. The annotated span of text (i.e. the one requiring contextualization) will not be disclosed to the participants. Instead, they need to estimate the information need from the given conversation act. As an example, given the excerpt of the example script from the movie ‘12 angry men’, a simple approach would be to execute the whole script as a query and retrieve a ranked list of documents from a collection. Participants are encouraged to explore different methods to identify/formulate the query from the dialogue and then proceed with the retrieval step.
+            The objective of the proposed track, to be organized as a part of <a href="http://fire.irsi.res.in/fire/2020/home">FIRE 2020</a>, is to automatically contextualize two-party or multi-party dialogue systems. We explore the utility of IR systems to retrieve more information about entities discussed in interactive dialogues. To study the problem under a laboratory-based reproducible setting, we propose a number of simplifications. First, since collecting multi-party chat dialogues can lead to individual privacy concerns, items requiring contextualization. Using movie scripts as a starting point, the task requires participants to retrieve relevant information from wikipedia given a dialogue span from a movie script. The task of the participants is to identify important or central entities in a span of movie dialogues and to subsequently retrieve a list of passages that provide more context or information about entities in that span. The annotated span of text (i.e. the one requiring contextualization) will not be disclosed to the participants. Instead, they need to estimate the information need from the given conversation. As an example, given the excerpt of the example script from the movie ‘12 angry men’, a simple approach would be to execute the whole script as a query and retrieve a ranked list of documents from a collection. Participants are encouraged to explore different methods to identify/formulate the query from the dialogue and then proceed with the retrieval step. 
            </p>
            <p class="description">
-            The task itself is that of ad-hoc passage retrieval (albeit without and explicitly entered keyword-style query). The collection from which passages are to be retrieved for contextualization is the Wikipedia collection (dump from 2019), which we will release as a part of the collection. Each document in the Wikipedia collection is comprised of explicitly marked-up passages (in the form of the paragraph tags). The retrievable units in our task are the passages (instead of whole documents).
+            The participants are provided with a manually annotated sample of dialogue spans extracted from four movie scripts along with entire movie scripts. The collection from which passages are to be retrieved for contextualization is the Wikipedia collection (dump from 2019). Each document in the Wikipedia collection is composed of explicitly marked-up passages (in the form of the paragraph tags). The retrievable units in our task are the passages (instead of whole documents).
             </p>
             <!--
             <ul>
@@ -138,8 +139,8 @@
         <br>
  
         <h3> Tasks </h3> 
-        There are two separate tasks. Each team can participate in any one or both the tasks. The first task is mainly an NLP one whereas the second one
-        pertains mainly to finding effective search techniques suitable for this problem. 
+        There are two separate tasks. Each team can participate in any one or both the tasks. The first task is entity linking whereas the second 
+        pertains to retrieving relevant information about identified entities.  
         <br>
         
         <!--With the main task of retrieving passages corresponding to a dialogue, we also ask the participants to participate optionally
@@ -218,7 +219,7 @@
           </ul>
             </center>
           </div>
-            The text extracted from the movie script along with the <a href="https://brat.nlplab.org/">BRAT</a> formatted annotation file can be found&nbsp;
+            The text extracted from the movie script along with the <a href="https://brat.nlplab.org/"> &nbsp; BRAT &nbsp;</a> formatted annotation file can be found&nbsp;
       <a href="https://github.com/rcd2020firetask/RCD2020FIRETASK/tree/master/dialogues">here</a>.         
           </div>
 
@@ -229,8 +230,21 @@
         <li> <b>Document Collection</b>: The objective in this track (Task-2) is to retrieve a ranked list of Wikipedia passages. We release a pre-processed version of Wikipedia
 dump, where we have enclosed each paragraph of a Wikipedia page into separate XML tags. Each tag is assigned a unique identifier. The basic retrieval unit for this ranking
 task is hence a Wikipedia passage. Note that it's up to you if you want to treat the passages as units contained within a document or treat them independently while ranking them.
-Each passage has been (and will be) judged independently. You can download our pre-processed Wikipedia collection from this
+Each passage has been (and will be) judged independently.
+          
+          There are two options for the collection that you can download.
+          <ul>
+          <li> A TREC formatted markup document that for the passage demarcated Wikipedia collection from this
 <a href="https://drive.google.com/file/d/1JgiYwTXMkoAUaWzgDeL7LQP5r-G-ReAM/view?usp=sharing">Google drive link</a>.
+          </li>
+          <li> A more simplified format (a tab separated file text file) containing the passage id in the first column and passage content in the second.
+                    You can get the gzipped file from this <a href="https://drive.google.com/file/d/1iujCKja301ciGnk3nvErUJebF7_Tc7pD/view?usp=sharing">Google drive link</a>.
+          </li>
+          </ul>
+          
+          A sample mavenized Lucene project to help the participants get started with indexing and retrieval can be found
+          <a href="https://github.com/gdebasis/luc4ir">here</a>.
+          
         </li>
         <li> <b> Queries/Topics: </b> A query for the ranking task contains a dialog piece from a movie. The topic file is similar in structure to a standard TREC query.
         Each query (topic) starts with a <b>topic</b> tag. The <b>num</b> tag assigns a unique identifier to the topic. You have to use these ids in the output <b>results</b>
@@ -243,10 +257,12 @@ We make this information available for the participants to get an idea about the
         </li>
         <li><b>Relevance Judgments: </b> For the training set of topics, we release a <b>TREC qrel</b> formatted file with 4 white-space separated columns, the first column
 denoting query id, the second unused, the third - a string denoting the passage (basic retrieval unit) identifier and the fourth indicating the relevance label (1/0) in our case.
-The training topics along with the relevance judgments can be downloaded from this <a href="https://github.com/rcd2020firetask/RCD2020FIRETASK/tree/master/Train">link to training data</a>. To obtain the relevance assessments, we constructed a pool of passages by a combination of retrieval with a number of standard IR models, such as BM25, LM, DFR etc. Passages in the pool were assessed by the organizors with respect to each input dialogue. For test topics, we will add the documents collected from the participating systems in the pool and
+The training topics along with the relevance judgments can be downloaded from this <a href="https://github.com/rcd2020firetask/RCD2020FIRETASK/tree/master/Train">link to training data</a>. To obtain the relevance assessments, we constructed a pool of passages by a combination of retrieval with a number of standard IR models, such as BM25, LM, DFR etc. Passages in the pool were assessed by the organizors with respect to each input dialogue.
+For test topics, we will add the documents collected from the participating systems in the pool and
 reevaluate the extended pool.
         </li>
         </ul>
+          
         </p>
 
         <!--div class='text-left'>
@@ -295,6 +311,53 @@ For task 1 the output will be in the format &lt;qid&gt; &lt;Tab&gt; &lt;Informat
     </ul>    
     </div>
 
+      
+    Note that since the retrievable units for our track are Wikipedia passages (not documents), in the collection provided we have assigned unique identifiers
+      to passages. The naming convention for a passage is <b>doc number</b>-<b>passage offset</b>, i.e. two integers separated by a hyphen character
+      (encoded within the <b>pno</b> tags within the collection provided).
+    Task-2 participants will be required to print these identifiers in the third column of the run submission file. Using other arbitrary identifiers
+    would not enable us to match the relevant retrieved passages from the ones in the qrel file. A sample XML excerpt for a Wikipedia document, titled
+<a href="https://en.wikipedia.org/wiki/Anarchism">Anarchism</a> is shown below. 
+</p>
+<br>
+<br>
+<br>
+
+<p>      
+<textarea rows="35" cols="80" style="border:none;">
+<doc>
+ <docno> 2 </docno>
+<page>
+<p>
+ <pno> 2-1 </pno>
+    <title>Anarchism</title>
+    <ns>0</ns>
+    <id>12</id>
+    <revision>
+      <id>918470367</id>
+      <parentid>918111101</parentid>
+      <timestamp>2019-09-28T20:40:50Z</timestamp>
+      <contributor>
+        <username>Brainulator9</username>
+        <id>11191612</id>
+      </contributor>
+      <comment>/* Sources */Remove redundant |year= parameter from CS1 citations;</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">{{good article}}
+{{redirect2|Anarchist|Anarchists|other uses|Anarchists (disambiguation)}}
+{{pp-move-indef}}
+{{short description|Political philosophy that advocates self-governed societies}}
+{{use dmy dates|date=July 2018}}
+{{use British English|date=January 2014}}
+{{anarchism sidebar}}
+{{basic forms of government}}
+'''Anarchism''' is an [[Anti-authoritarianism|anti-authoritarian]] [[political philosophy]]{{sfnm|1a1=McLaughlin|1y=2007|1p=59|2a1=Flint|2y=2009|2p=27}} that rejects [[Hierarchy|hierarchies]] deemed unjust and advocates their replacement with [[Workers' self-management|self-managed]], [[Self-governance|self-governed]] societies based on voluntary, [[cooperative]] institutions. These institutions are often described as [[Stateless society|stateless societies]],{{sfnm|1a1=Sheehan|1y=2003|1p=85|2a1=Craig|2y=2005|2p=14}} although several authors have defined them more specifically as distinct institutions based on non-hierarchical or [[Free association (communism and anarchism)|free associations]].{{sfn|Suissa|2006|p=7}} Anarchism's central disagreement with other ideologies is that it holds the [[Sovereign state|state]] to be undesirable, unnecessary, and harmful.{{sfnm|1a1=McLean|1a2=McMillan|1y=2003|loc=Anarchism|2a1=Craig|2y=2005|2p=14}}
+</p>
+</textarea>
+  </p>      
+     
+  <b>For submission, you need to send your runs to rcd2020@firetask@gmail.com. </b>
     </section><!-- End Call To Action Section -->
 
     <!-- ======= Our Portfolio Section ======= -->
@@ -354,10 +417,10 @@ For task 1 the output will be in the format &lt;qid&gt; &lt;Tab&gt; &lt;Informat
 
         <ul>
 
-        <li><strike>Training Data Release</strike> -	16th July, 2020</li>
-        <li><strike>Test Data Release</strike> -	16th July, 2020</li>
-        <li>Run Submission Deadline -	5th September, 2020</li>
-        <li>Results Declaration -	15th September, 2020</li>
+        <li><strike>Training Data Release</strike> (<a href="https://github.com/rcd2020firetask/RCD2020FIRETASK/tree/master/Train">Download link</a>)-	16th July, 2020   &nbsp;&#10003;</li> 
+        <li><strike>Test Data Release</strike> (<a href="https://github.com/rcd2020firetask/RCD2020FIRETASK/blob/master/test.txt">Download link</a>) -	16th July, 2020 &nbsp;&#10003;</li>
+        <li>Run Submission Deadline -	5th September, 2020 &nbsp;&#10003;</li>
+        <li>Results Declaration -	15th September, 2020 &nbsp;&#10003;</li>
         <li>Working Note Submission -	8th October, 2020</li>
         <li>Review Notifications -	25th October, 2020</li>
         <li>Final Version of Working Note - 5th November, 2020    </li>    
@@ -401,7 +464,114 @@ For task 1 the output will be in the format &lt;qid&gt; &lt;Tab&gt; &lt;Informat
 
       </div>
     </section><!-- End Frequently Asked Questions Section -->
+      <section id="contact1" class="team section-bg">
+      <div class="container">
 
+        <div class="section-title">
+          <h2>Results</h2>
+          <p>Results for Task 1:</p>          
+          <p class='text-left'>
+            We got the runs from a single participating team - Adapt Centre (DCU). The team submitted 5 runs for tasks 1 and 2. The following are the results,
+            measued in terms of weighted BLEU scores, for task 1. More concretely, a variant of the <a href="https://en.wikipedia.org/wiki/BLEU">BLEU score</a> is
+            computed to measure the overlap between the predicted and the ground-truth of the information need nugget arising out of every conversational context.
+            Instead of the word n-grams, as used in the machine translation BLEU scores, we use weighted character n-grams (n=3,4,5) with more weight put on higher values of n.
+          <p></p><p></p>
+         <style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-1wig{font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-baqh{text-align:center;vertical-align:top}
+.tg .tg-amwm{font-weight:bold;text-align:center;vertical-align:top}
+</style>
+<center>
+<br><br>  
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-1wig">Team Name</th>
+    <th class="tg-amwm">Run Name</th>
+    <th class="tg-1wig">Weighted BLEU Score</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-baqh">ADAPT</td>
+    <td class="tg-baqh">F6_4_model2</td>
+    <td class="tg-baqh">0.0583</td>
+  </tr>
+  <tr>
+    <td class="tg-baqh">ADAPT</td>
+    <td class="tg-baqh">F7_4_model3</td>
+    <td class="tg-baqh">0.1020</td>
+  </tr>
+  <tr>
+    <td class="tg-baqh">ADAPT</td>
+    <td class="tg-baqh">F5_0_model1</td>
+    <td class="tg-amwm">0.0895</td>
+  </tr>
+  <tr>
+    <td class="tg-baqh">ADAPT</td>
+    <td class="tg-baqh">Y7_2_model5_2</td>
+    <td class="tg-baqh">0.0018</td>
+  </tr>
+  <tr>
+    <td class="tg-baqh">ADAPT</td>
+    <td class="tg-baqh">F8_4_model4</td>
+    <td class="tg-baqh">0.0796</td>
+  </tr>
+</tbody>
+</table>
+            </center>
+        </div>
+        <div>
+          <p class='text-left'>
+        The ground-truth for task-1 for the test set topics (comprising of information need requiring Wikification) can be found in the following
+          <a href="https://drive.google.com/file/d/17PUCjOPkRZpjydPMrQYCHmbOURyHWuBw/view?usp=sharing">TREC topic formatted file</a>.
+          The <b>desc</b> field contains a piece of conversation (from a movie), whereas the <b>title</b> field contains the annotated piece of ground-truth
+          text forming the unit of information need.
+          </p>
+          
+          <p class='text-left'>
+          While evaluating the results, we took into account overlap for each individual conversational piece (and importantly, not on individual information need unit).
+            For example, in the following conversational piece there are two instances of information unit, namely <b>acacia tree</b> and <b>Ming Mecca chip</b>.
+            The reference string for this piece is considered to be the concatenation of these two. Also, the predictions for these two topics are concatenated for
+            computing the overlap with the ground-truth.
+          </p>
+            
+            <p class='text-center'><font face='courier'>
+            Mr. Cohen? Mr. Cohen? Please stop for a second Mr. Cohen?
+Damn it already! Stop following me. I'm not interested in your money. I'm searching for a way to understand our world. I'm searching for perfection. I don't deal with mediocre materialistic people like you!
+I'm sorry. I'm very sorry. I admit I've been a bit too aggressive. But all I ask is for five minutes of your time. Here...
+...a stopwatch. Already ticking. Allow me the four and a half minutes left Let me tell you what I want. Let me tell you what I can offer you. Afterwards, if you don't want to talk to me, then fine, we part as friends and I promise that you will never see me again. That's fair, isn't it?
+Go.
+Good. It's funny, even though we have different aims and different goals we're actually incredibly alike. We both seek the same thing—perfection. I know... clearly we're seeking different types of perfection, but that is what makes us perfect candidates for a fruitful partnership. If you let me, I can be your greatest ally.
+              Take the <font color="red">acacia tree</font>...in East Africa. It is the most prevalent plant in all of Kenya because it has managed to secure its niche by defeating its major predator, the giraffe. To accomplish this, the tree has made a contract with a highly specialized red ant. The tree has evolved giant spores which act as housing for the ants In return for shelter, the ants supply defense. When a giraffe starts to eat the tree's leaves, the shaking branch acts like an alarm. The ants charge out and secrete an acid onto the giraffe's tongue. The giraffe learns its lesson and never returns. Without each other, the tree would be picked dry and the ants would have no shade from the brutal African sun Both would die. But with each other, they succeed, they survive, they surpass. They have different aims, different goals but they work together. Max, we would like to establish a mutually benefiting alliance with you.
+I'm not interested.
+Allow me to dose.
+As a sign of good faith we wish to offer you this.
+I told you I don't want money.
+The suitcase isn't filled with fifties or gold or diamonds. Just silicon. <font color="blue">A Ming Mecca chip</font>.  
+              </font></p>
+          <p class='text-left'>          
+            To reproduce the results, simply use the script implemented <a href="https://github.com/gdebasis/luc4ir/blob/master/rcd/eval.sh"></a>. Go through
+            the github readme to set up your environment. The script as one of the sample runs provides an example from one of the runs that we received
+            as a part of the official submission. Put all your runs that you want to evaluate in a folder, put its name in the script and you should be able to
+            compute the BLEU metric.
+          </p>
+        
+        <p class='text-left'>
+          The script uses two pieces of information -
+          a) the annotated text for each topic (see <a href="https://github.com/gdebasis/luc4ir/blob/master/rcd/rels_task1.tsv">here</a>) and
+          b) the equivalence relation of the topics (see <a href="https://github.com/gdebasis/luc4ir/blob/master/rcd/equiv.txt">here</a>) - to compute the overlap.          
+        </p>
+          
+        </div>
+        
+        </div>
+        </section>
     <!-- ======= Our Team Section ======= -->
     <section id="contact" class="team section-bg">
       <div class="container">
