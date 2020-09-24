@@ -1,13 +1,20 @@
-#cat ../qrel-judgement-v3.txt | awk '{if ($4>0) reldocs[$1]=reldocs[$1]" "$3} END{for (d in reldocs) print d"\t"reldocs[d]}' > tmp
-#cat equiv.txt |awk '{n=split($0,a," "); for (i in a) for (j in a) e[a[i]":"a[j]]=1} END{for (k in e) print k}'
-#A debug version of the last line...
-#END {for (i in repqid) { print("***"repqid[i]"***"); split(repqid[i], qids, " "); for (j in qids) printf("%s: %s\n", qids[j], reldocs[qids[j]]);} }' equiv.txt ../qrel-judgement-v3.txt 
+#!/bin/bash
+  
+if [ $# -lt 2 ]
+then
+    echo "usage: $0 <qrel> <res>"
+    exit
+fi
 
-QREL=qrel-judgement-v3.txt
-MERGED_QREL=qrels.merged
+QREL=$1
+RESFILE=$2
+MERGED_QREL=$QREL.merged
 
 awk 'FNR==NR \
 {repqid[$1]=$0; next} \
 {if ($4>0) reldocs[$1]=reldocs[$1]" "$3} \
-END {for (i in repqid) { split(repqid[i], qids, " "); for (j in qids) { n=split(reldocs[qids[j]],docids," "); for (k=1;k<=n; k++) printf("%s\tQ0\t%s\t1\n", qids[1], docids[k]);} }}' equiv.txt $QREL > $MERGED_QREL
+END {for (i in repqid) { split(repqid[i], qids, " "); for (j in qids) merged_rels=merged_rels" "reldocs[qids[j]]; n=split(merged_rels,docids," "); \
+for (k=1;k<=n;k++) uniqdocs[docids[k]]=1; \
+for (j in qids) { for (uniqdoc in uniqdocs) printf("%s\tQ0\t%s\t1\n", qids[j], uniqdoc); } } }' equiv.txt $QREL > $MERGED_QREL
 
+trec_eval $MERGED_QREL $RESFILE
