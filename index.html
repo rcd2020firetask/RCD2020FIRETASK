@@ -50,7 +50,7 @@
           <li class="active"><a href="#header">Home</a></li>
           <li><a href="#about">Task Description</a></li>
           <li><a href="#services">Guidelines</a></li>
-          <li><a href="#portfolio">Dataset</a></li>
+          <li><a href="#dataset">Dataset</a></li>
           <li><a href="#team">Organizers</a></li>
           <li><a href="#results">Important Dates</a></li>
           <li><a href="#contact1">Results</a></li>
@@ -196,7 +196,7 @@
     </section><!-- End Services Section -->
 
     <!-- ======= Call To Action Section ======= -->
-    <section id='portfolio' class="about">
+    <section id='dataset' class="about">
       <div class="container">
 
         <div class="text-center">
@@ -494,6 +494,7 @@ For task 1 the output will be in the format &lt;qid&gt; &lt;Tab&gt; &lt;Informat
     <th class="tg-1wig">Team Name</th>
     <th class="tg-amwm">Run Name</th>
     <th class="tg-1wig">Weighted BLEU Score</th>
+    <th class="tg-1wig">Word-level Jaccard Overlap</th>
   </tr>
 </thead>
 <tbody>
@@ -501,26 +502,31 @@ For task 1 the output will be in the format &lt;qid&gt; &lt;Tab&gt; &lt;Informat
     <td class="tg-baqh">ADAPT</td>
     <td class="tg-baqh">F6_4_model2</td>
     <td class="tg-baqh">0.0636</td>
+    <td class="tg-baqh">0.0487</td>
   </tr>
   <tr>
     <td class="tg-baqh">ADAPT</td>
     <td class="tg-baqh">F7_4_model3</td>
     <td class="tg-baqh">0.0989</td>
+    <td class="tg-baqh">0.0727</td>
   </tr>
   <tr>
     <td class="tg-baqh">ADAPT</td>
     <td class="tg-baqh">F5_0_model1</td>
     <td class="tg-baqh">0.0984</td>
+    <td class="tg-baqh">0.0487</td>
   </tr>
   <tr>
     <td class="tg-baqh">ADAPT</td>
     <td class="tg-baqh">Y7_2_model5_2</td>
     <td class="tg-baqh">0.0020</td>
+    <td class="tg-baqh">0.0000</td>
   </tr>
   <tr>
     <td class="tg-baqh">ADAPT</td>
     <td class="tg-baqh">F8_4_model4</td>
     <td class="tg-amwm">0.1090</td>
+    <td class="tg-baqh">0.0636</td>
   </tr>
 </tbody>
 </table>
@@ -552,35 +558,35 @@ For task 1 the output will be in the format &lt;qid&gt; &lt;Tab&gt; &lt;Informat
 </thead>
 <tbody>
   <tr>
-    <td class="tg-0pky">ADAPT_Team</td>
+    <td class="tg-0pky">ADAPT</td>
     <td class="tg-c3ow">F5_0_Model1</td>
     <td class="tg-fymr">0.0021</td>
     <td class="tg-0pky">0.0400</td>
     <td class="tg-0pky">0.0922</td>
   </tr>
   <tr>
-    <td class="tg-0pky">ADAPT Team</td>
+    <td class="tg-0pky">ADAPT</td>
     <td class="tg-c3ow">Y7_2_Model5_2</td>
     <td class="tg-0pky">0.0001</td>
     <td class="tg-0pky">0.0160</td>
     <td class="tg-0pky">0.0023</td>
   </tr>
   <tr>
-    <td class="tg-0pky">ADAPT Team</td>
+    <td class="tg-0pky">ADAPT</td>
     <td class="tg-c3ow">F7_4_model3</td>
     <td class="tg-0pky">0.0016</td>
     <td class="tg-fymr">0.0417</td>
     <td class="tg-fymr">0.1086</td>
   </tr>
   <tr>
-    <td class="tg-0pky">ADAPT Team</td>
+    <td class="tg-0pky">ADAPT</td>
     <td class="tg-c3ow">F6_4_model2</td>
     <td class="tg-0pky">0.0013</td>
     <td class="tg-0pky">0.0160</td>
     <td class="tg-0pky">0.0518</td>
   </tr>
   <tr>
-    <td class="tg-0pky">ADAPT Team</td>
+    <td class="tg-0pky">ADAPT</td>
     <td class="tg-c3ow">F8_4_model4</td>
     <td class="tg-0pky">0.0003</td>
     <td class="tg-0pky">0.0400</td>
@@ -607,30 +613,19 @@ For task 1 the output will be in the format &lt;qid&gt; &lt;Tab&gt; &lt;Informat
             
             <p class='text-center'><font face='courier'>
             Mr. Cohen? Mr. Cohen? Please stop for a second Mr. Cohen?
-Damn it already! Stop following me. I'm not interested in your money. I'm searching for a way to understand our world. I'm searching for perfection. I don't deal with mediocre materialistic people like you!
-I'm sorry. I'm very sorry. I admit I've been a bit too aggressive. But all I ask is for five minutes of your time. Here...
-...a stopwatch. Already ticking. Allow me the four and a half minutes left Let me tell you what I want. Let me tell you what I can offer you. Afterwards, if you don't want to talk to me, then fine, we part as friends and I promise that you will never see me again. That's fair, isn't it?
-Go.
-Good. It's funny, even though we have different aims and different goals we're actually incredibly alike. We both seek the same thing—perfection. I know... clearly we're seeking different types of perfection, but that is what makes us perfect candidates for a fruitful partnership. If you let me, I can be your greatest ally.
-              Take the <font color="red">acacia tree</font>...in East Africa. It is the most prevalent plant in all of Kenya because it has managed to secure its niche by defeating its major predator, the giraffe. To accomplish this, the tree has made a contract with a highly specialized red ant. The tree has evolved giant spores which act as housing for the ants In return for shelter, the ants supply defense. When a giraffe starts to eat the tree's leaves, the shaking branch acts like an alarm. The ants charge out and secrete an acid onto the giraffe's tongue. The giraffe learns its lesson and never returns. Without each other, the tree would be picked dry and the ants would have no shade from the brutal African sun Both would die. But with each other, they succeed, they survive, they surpass. They have different aims, different goals but they work together. Max, we would like to establish a mutually benefiting alliance with you.
-I'm not interested.
-Allow me to dose.
-As a sign of good faith we wish to offer you this.
-I told you I don't want money.
-The suitcase isn't filled with fifties or gold or diamonds. Just silicon. <font color="blue">A Ming Mecca chip</font>.  
+Damn it already! Stop following me. I'm not interested in your money. I'm searching for a way to understand our world. I'm searching for perfection. I don't deal with mediocre materialistic people like you! ... Take the <font color="red">acacia tree</font>...in East Africa. It is the most prevalent plant in all of Kenya because it has managed to secure its niche by defeating its major predator, the giraffe. To accomplish this, the tree has made a contract with a highly specialized red ant. The tree has evolved giant spores which act as housing for the ants In return for shelter, the ants supply defense. When a giraffe starts to eat the tree's leaves, the shaking branch acts like an alarm. The ants charge out and secrete an acid onto the giraffe's tongue. The giraffe learns its lesson and never returns. Without each other, the tree would be picked .... Just silicon. <font color="blue">A Ming Mecca chip</font>.  
               </font></p>
           <p class='text-left'>          
-            To reproduce the results, simply use the script implemented <a href="https://github.com/gdebasis/luc4ir/blob/master/rcd/eval.sh"></a>. Go through
-            the github readme to set up your environment. The script as one of the sample runs provides an example from one of the runs that we received
-            as a part of the official submission. Put all your runs that you want to evaluate in a folder, put its name in the script and you should be able to
-            compute the BLEU metric.
+            To reproduce results for task 1, simply use the <a href="https://github.com/gdebasis/luc4ir/blob/master/rcd/eval.sh">script</a>. Go through
+            the github readme to set up the environment. The script only requires the folder for task 1 runs to generate the BLEU score.
           </p>
-        
         <p class='text-left'>
-          The script uses two pieces of information -
+          For task 1, the script uses two pieces of information -
           a) the annotated text for each topic (see <a href="https://github.com/gdebasis/luc4ir/blob/master/rcd/rels_task1.tsv">here</a>) and
           b) the equivalence relation of the topics (see <a href="https://github.com/gdebasis/luc4ir/blob/master/rcd/equiv.txt">here</a>) - to compute the overlap.          
         </p>
+          <p class='text-left'>
+          For evaluating task 2 runs, please run this <a href='https://github.com/rcd2020firetask/RCD2020FIRETASK/blob/master/eval/equiv_treceval.sh'>script</a> which requires qrels and retrieval runs (formatted as TREC runs) as two inputs. The relevance judgments i.e. qrels are available <a href='https://github.com/rcd2020firetask/RCD2020FIRETASK/blob/master/eval/qrel-judgement-v4.txt'>here</a>. </p>
           
         </div>
         
