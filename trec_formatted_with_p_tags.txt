@@ -1,0 +1,893 @@
+<topics>
+<top>
+<num> 1 </num>
+<title> Fifth Amendment.</title>
+<movie>12 Angry Men</movie>
+<desc>
+<p>All right. It's not Sunday. We don't need a sermon.</p>
+<p>to be able to behave like gentlemen. </p>
+<p>it. </p>
+<p>close the window. It was blowing on my neck. </p>
+<p>it seems to me that it's up to us to convince this gentleman (indicating NO. 8) that we're right and he's wrong. Maybe if we each took a minute or two, you know, if we sort of try it on for size.</p>
+<p>table. </p>
+<p>guilty. I thought it was obvious. I mean nobody proved otherwise.is on the prosecution. The defendant doesn't have to open his mouth. That's in the Constitution. The Fifth Amendment. You've heard of it. </p>
+<p>I . . . what I meant . . . well, anyway, I think he was guilty. </p>
+<p>man who lived on the second floor right underneath the room where the murder took place. At ten minutes after twelve on the night of the killing he heard loud noises in the upstairs apartment. He said it sounded like a fight. Then he heard the kid say to his father, "I'm gonna kill you.!” A second later he heard a body falling, and he ran to the door of his apartment, looked out, and saw the kid running down the stairs and out of the house. Then he called the police. They found the father with a knife in his chest. </p>
+<p>movies. That's a little ridiculous, isn't it? He couldn't even remember what pictures he saw. </p>
+<p>right. </p>
+<p>testimony don't prove it, then nothing does. </p>
+</desc>
+</top>
+<top>
+<num> 2 </num>
+<title> reform school</title>
+<movie>12 Angry Men</movie>
+<desc>
+<p>She's one of "them" too, isn't she: I'd like to ask you something. How come you believed her? She's one of "them" too, isn't she?</p>
+<p>you letting him get you all upset for? Relax.</p>
+<p>with the testimony from those people across the hall. Didn't they say something about an argument between the father and the boy around seven o'clock that night? I mean, I can be wrong.</p>
+<p>boy twice and then saw the boy walk angrily out of the house. What does that prove?</p>
+<p>the picture. I didn't say it proved anything. </p>
+<p>day about this thing, but I think we’re wasting our time. Look at the kid's record. At fifteen he was in reform school. He stole a car. He's been arrested for mugging. He was picked up for knife-fighting. I think they said he stabbed somebody in the arm. This is a very fine boy.</p>
+<p>regularly. He used his fists. </p>
+<p>don't listen. I've got a kid. When he was eight years old, he ran away from a fight. I saw him. I was so ashamed, I told him right out, "I'm gonna make a man out of you or I'm gonna bust you up into little pieces trying." When he was fifteen he hit me in the face. He's big, you know. I haven't seen him in three years. Rotten kid! You work your heart out.... All right, let's get on with it. </p>
+<p>don't listen. (Bitter) I've got a kid. When he was eight years old, he ran away from a fight. I saw him. I was so ashamed, I told him right out, "I'm gonna make a man out of you or I'm gonna bust you up into little pieces trying." When he was fifteen he hit me in the face. He's big, you know. I haven't seen him in three years. Rotten kid! You work your heart out.... All right, let's get on with it.</p>
+<p>product of a filthy neighborhood and a broken home. We can't help that. We're not here to go into the reasons why slums are breeding grounds for criminals. They are. I know it. So do you. The children who come out of slum backgrounds are potential menaces to society.</p>
+<p>me.</p>
+<p>Maybe it still smells on me. </p>
+<p>Let's not be so sensitive. </p>
+</desc>
+</top>
+<top>
+<num> 3 </num>
+<title> slums are breeding grounds for criminals</title>
+<movie>12 Angry Men</movie>
+<desc>
+<p>the picture. I didn't say it proved anything. </p>
+<p>day about this thing, but I think we’re wasting our time. Look at the kid's record. At fifteen he was in reform school. He stole a car. He's been arrested for mugging. He was picked up for knife-fighting. I think they said he stabbed somebody in the arm. This is a very fine boy.</p>
+<p>regularly. He used his fists. </p>
+<p>don't listen. I've got a kid. When he was eight years old, he ran away from a fight. I saw him. I was so ashamed, I told him right out, "I'm gonna make a man out of you or I'm gonna bust you up into little pieces trying." When he was fifteen he hit me in the face. He's big, you know. I haven't seen him in three years. Rotten kid! You work your heart out.... All right, let's get on with it. </p>
+<p>don't listen. (Bitter) I've got a kid. When he was eight years old, he ran away from a fight. I saw him. I was so ashamed, I told him right out, "I'm gonna make a man out of you or I'm gonna bust you up into little pieces trying." When he was fifteen he hit me in the face. He's big, you know. I haven't seen him in three years. Rotten kid! You work your heart out.... All right, let's get on with it.</p>
+<p>product of a filthy neighborhood and a broken home. We can't help that. We're not here to go into the reasons why slums are breeding grounds for criminals. They are. I know it. So do you. The children who come out of slum backgrounds are potential menaces to society.</p>
+<p>me.</p>
+<p>Maybe it still smells on me. </p>
+<p>Let's not be so sensitive. </p>
+<p>It's your turn. </p>
+<p>I felt that the defense counsel never really conducted a thorough cross-examination. I mean, he was appointed by the court to defend the boy. He hardly seemed interested. Too many questions were left unasked. </p>
+</desc>
+</top>
+<top>
+<num> 4 </num>
+<title> switch knife</title>
+<movie>12 Angry Men</movie>
+<desc>
+<p>What about the ones that were asked? For instance, let's talk about that cute little switchknife. You know, the one that fine, upright kid admitted buying.</p>
+<p>at it. I'd like to see it again, Mr. Foreman.</p>
+<p>look at it again. What do yo: We all know what it looks like. I don't see why we have to look at it again. What do you think? </p>
+<p>don't you agree? </p>
+<p>being slapped by his father.</p>
+<p>switch knife. The storekeeper was arrested the following day when he admitted selling it to the boy. It's a very unusual knife. The storekeeper identified it and said it was the only one of its kind he had in stock. Why did the boy get it? As a present for a friend of his, he says. Am I right so far?</p>
+<p>what he's talking about. </p>
+<p>fallen through a hole in his coat pocket, that he never saw it again. Now there's a story, gentlemen. You know what actually happened. The boy took the knife home and a few hours later stabbed his father with it and even remembered to wipe off the fingerprints.</p>
+<p>are you trying to tell me that someone picked it up off the street and went up to the boy's house and stabbed his father with it just to be amusing?</p>
+<p>and that someone else stabbed his father with a similar knife. It's possible.</p>
+<p>never seen one like it before in my life and neither had the storekeeper who sold it to him.</p>
+</desc>
+</top>
+<top>
+<num> 5 </num>
+<title> secret ballot</title>
+<movie>12 Angry Men</movie>
+<desc>
+<p>there are still eleven of us who think he's guilty. You're alone. What do you think you're gonna accomplish? If you want to be stubborn and hang this jury, he'll be tried again and found guilty, sure as he's born. </p>
+<p>you like him? Like someone forced him! </p>
+<p>sit around a jury room. </p>
+<p>at once? </p>
+<p>the show. </p>
+<p> secret ballot. I'll abstain. If there are still eleven votes for guilty, I won't stand alone. We'll take in a guilty verdict right now. </p>
+<p>Guilty. Guilty. </p>
+<p>Not Guilty. Guilty.</p>
+<p>point, no? If the gentleman wants it to remain secret…</p>
+<p>What do you mean? There are no secrets in here! I know who it was. What's the matter with you? You come in here and you vote guilty and then this slick preacher starts to tear your heart out with stories about a poor little kid who just couldn't help becoming a murderer. So you change your vote. If that isn't the most sickening...</p>
+<p>where he belongs—and all of a sudden we're paying attention to fairy tales.</p>
+</desc>
+</top>
+<top>
+<num> 6 </num>
+<title> elevated train</title>
+<movie>12 Angry Men</movie>
+<desc>
+<p>kid yell, "I'm gonna kill you." A second later he heard the father's body falling, and he saw the boy running out of the house fifteen seconds after that.</p>
+<p>street. She looked into the open window and saw the boy stab his father. She saw it. Now if that's not enough for you.... </p>
+<p>elevated train. The train had five cars, and she saw it through the windows of the last two. She remembers the most insignificant details.</p>
+<p>pencil. ~ </p>
+<p>one! </p>
+<p>an elevated train going at top speed to pass a given point? </p>
+<p>given point is the window of the room in which the killing took place. You can almost reach out of the window of that room and touch the el. Right? All right. Now let me ask you this. Did anyone here ever live right next to the el tracks? I have. When your window is open and the train goes by, the noise is almost unbearable. You can't hear yourself think. : This. An el train passes a given point in ten seconds. That given point is the window of the room in which the killing took place. You can almost reach out of the window of that room and touch the el. Right? All right. Now let me ask you this. Did anyone here ever live right next to the el tracks? I have. When your window is open and the train goes by, the noise is almost unbearable. You can't hear yourself think.</p>
+<p>point?</p>
+<p>one second later he heard a body fall. One second. That's the testimony, right? </p>
+<p>last two cars of the el and saw the body fall. Right? The last two cars. </p>
+<p>per car. That el had been going by the old man's window for at least six seconds and maybe more, before the body fell, according to the woman. The old man would have had to hear the boy say, "I'm going to kill you," while the front of the el was roaring past his nose. It's not possible that he could nave heard it.</p>
+</desc>
+</top>
+<top>
+<num> 7 </num>
+<title> American Detective Monthly</title>
+<movie>12 Angry Men</movie>
+<desc>
+<p>the kid screamed it out at the top of his lungs. Don't try and tell me he didn't mean it. Anybody says a thing like that the way he said it—they mean it.</p>
+<p>shout out a thing like that so the whole neighborhood would hear it? I don't think so. He's much too bright for that.</p>
+<p>even speak good English!</p>
+<p>my vote to not guilty.</p>
+<p>Yes. I'm sure. </p>
+<p>on? Stories this guy made up! He oughta write for American Detective Monthly. He'd make a fortune. Listen, the kid had a lawyer, didn't he? Why didn't his lawyer bring up all these points?</p>
+<p>of thin air. Now, we're supposed to believe that the old man didn't get up out of bed, run to the door, and see the kid beat it downstairs fifteen seconds after the killing. He's only saying he did to be important?</p>
+<p>run.</p>
+<p>enough, isn't it?</p>
+<p>Don't you remember that?</p>
+<p>the apartment.</p>
+<p>everything straight?</p>
+</desc>
+</top>
+<top>
+<num> 8 </num>
+<title> materialistic people</title>
+<movie>Pi</movie>
+<desc>
+<p>That is insanity, Max.</p>
+<p>Or maybe it's genius. I have to get that number.</p>
+<p>Hold on, you have to slow down. You're losing it, you have to take a breath. Listen to yourself. You're connecting a computer bug I had, a computer bug you might have had, and some religious hogwash. If you want to find the number two sixteen in the world, you'll be able to pull it out of anywhere. Two hundred and sixteen steps from your street comer to your front door. Two hundred and sixteen seconds you spend riding on the elevator. When your mind becomes obsessed with anything, it will filter everything else out and find examples of that thing everywhere. Three hundred and twenty, four hundred and fifty, twenty-three. Whatever! You've chosen two sixteen and you'll find it everywhere in nature. But Max, as soon as you discard scientific rigor, you are no longer a mathematician. You become a numerologist. What you need to do is take a break from your research. You need it. You deserve it Here's a hundred dollars, I want you to take it. If ,you won't take it, borrow it. Either way, take a break. Spend it however you like as long as it falls in the category of vacation. Real world stuff, okay. No math.</p>
+<p>Just try it. In a week you'll laugh about this. C'mon, Max. Think about it!	</p>
+<p>Mr. Cohen? Mr. Cohen? Please stop for a second Mr. Cohen?</p>
+<p>Damn it already! Stop following me. I'm not interested in your money. I'm searching for a way to understand our world. I'm searching for perfection. I don't deal with mediocre materialistic people like you!</p>
+<p>I'm sorry. I'm very sorry. I admit I've been a bit too aggressive. But all I ask is for five minutes of your time. Here...</p>
+<p>...a stopwatch. Already ticking. Allow me the four and a half minutes left Let me tell you what I want. Let me tell you what I can offer you. Afterwards, if you don't want to talk to me, then fine, we part as friends and I promise that you will never see me again. That's fair, isn't it?	</p>
+<p>Go.	</p>
+<p>Good. It's funny, even though we have different aims and different goals we're actually incredibly alike. We both seek the same thing—perfection. I know... clearly we're seeking different types of perfection, but that is what makes us perfect candidates for a fruitful partnership. If you let me, I can be your greatest ally. Take the acacia tree...in East Africa. It is the most prevalent plant in all of Kenya because it has managed to secure its niche by defeating its major predator, the giraffe. To accomplish this, the tree has made a contract with a highly specialized red ant. The tree has evolved giant spores which act as housing for the ants In return for shelter, the ants supply defense. When a giraffe starts to eat the tree's leaves, the shaking branch acts like an alarm. The ants charge out and secrete an acid onto the giraffe's tongue. The giraffe learns its lesson and never returns. Without each other, the tree would be picked dry and the ants would have no shade from the brutal African sun Both would die. But with each other, they succeed, they survive, they surpass. They have different aims, different goals but they work together. Max, we would like to establish a mutually benefiting alliance with you.</p>
+<p>I'm not interested.</p>
+</desc>
+</top>
+<top>
+<num> 9 </num>
+<title> golden ratio</title>
+<movie>Pi</movie>
+<desc>
+<p>That's good...	</p>
+<p>I want to help.</p>
+<p>Excellent.</p>
+<p>Do you have the Torah in digital form?</p>
+<p>Thursday, September fourth, sixteen forty-five. The alchemist awakes. All of my ideas, work and dreams are spinning together It all has to do with spirals. It began with spirals and the answers are thee.</p>
+<p>The most I can remember about their significance is from Schneider's class. That bullshit core for majors. Schneider's fascination with mystical geometry made him a bit of a quack...but...then again, look at Kepler. He was really into Pythagoras. The leader of an ancient sect which believed the entire universe could be represented by numbers. Pythagoras' greatest contribution was the golden ratio, which ended up influencing art and science for thousands of years, arguably all the way up to today.</p>
+<p>The golden ratio, if I recall, is this unique relationship between the length and width of a special rectangle called the golden rectangle.</p>
+<p>carefully measuring out a golden rectangle. The rectangle fits perfectly over Leonardo Da Vinci's Man.</p>
+<p>If you take the width of this rectangle and use it to form a square within the rectangle, the part left over is a rectangle that has the same ratio as the original rectangle. au can continue squaring the rectangle, over and over again, making the rectangles smaller and smaller to infinity.</p>
+<p>squaring rectangle after rectangle. Then he draws the golden spiral through the rectangles.</p>
+<p>Then, if you connect a curve through these rectangles you get the golden spiral. The Pythagoreans loved this shape because they found it everywhere in nature.</p>
+</desc>
+</top>
+<top>
+<num> 10 </num>
+<title> Revolutionary War</title>
+<movie>Good Will Hunting</movie>
+<desc>
+<p>Hey, I'm the last guy to want to talk about school at the bar. But as long as you're here I want to "seize" the opportunity to ask you a question.</p>
+<p>Oh, I'm sure you covered it in your history class.</p>
+<p>To tell you the truth, I wasn't there much. The class was rather elementary.</p>
+<p>Elementary? Oh, I don't doubt that it was. I remember the class, it was just between recess and lunch.</p>
+<p>All right, are we gonna have a problem?</p>
+<p>There's no problem. I was just hoping you could give me some insight into the evolution of the market economy in the early colonies. My contention is that prior to the Revolutionary War the economic modalities especially of the southern colonies could most aptly be characterized as agrarian precapitalist and...</p>
+<p>Of course that's your contention. You're a first year grad student. You just finished some Marxian historian, Pete Garrison prob'ly, and so naturally that's what you believe until next month when you get to James Lemon and get convinced that Virginia and Pennsylvania were strongly entrepreneurial and capitalist back in 1740. That'll last until sometime in your second year, then you'll be in here regurgitating Gordon Wood about the Pre-revolutionary utopia and the capital-forming effects of military mobilization.</p>
+<p>Well, as a matter of fact, I won't, because Wood drastically underestimates the impact of--</p>
+<p>"Wood drastically underestimates the impact of social distinctions predicated upon wealth, especially inherited wealth..." You got that from "Work in Essex County," Page 421, right? Do you have any thoughts of your own on the subject or were you just gonna plagiarize the whole book for me?</p>
+<p>Look, don't try to pass yourself off as some kind of an intellect at the expense of my friend just to impress these girls.</p>
+<p>The sad thing is, in about 50 years you might start doin' some thinkin' on your own and by then you'll realize there are only two certainties in life.</p>
+</desc>
+</top>
+<top>
+<num> 11 </num>
+<title> tyranny</title>
+<movie>Good Will Hunting</movie>
+<desc>
+<p>No students work for me.</p>
+<p>Could you just check, because the young man who works in my building--</p>
+<p>Which one's your building?</p>
+<p>Building two.</p>
+<p>Look, he got his job through his P.O. so you can call him.</p>
+<p>There is a lengthy legal precedent, Your Honor, going back to 1789, whereby a defendant may claim self- defense against an agent of the government where the act is shown to be a defense against tyranny, a defense of liberty--</p>
+<p>Mr. Simmons, Officer McNeely who signed the complaint isn't in my courtroom. Why is that?</p>
+<p>He's in the hospital with a broken knee, Your Honor. But I have depositions from the other officers.</p>
+<p>Henry Ward Beecher proclaimed, in his Proverbs From Plymouth Pulpit back in 1887, that "Every American citizen is by birth, a sworn officer of the state. Every man is a policeman." As for the other officers, even William Congrave said; "he that first cries out 'stop thief' is 'oft he that has stolen the treasure."</p>
+<p>Your Honor--</p>
+<p>I am afforded the right to speak in my own defense by our constitution, Sir. The same document which guarantees my right to liberty. "Liberty," in case you've forgotten, is "the soul's right to breathe, and when it cannot take a long breath laws are girded too tight. Without liberty, man is a syncope."   (beat, to Judge) Ibid. Your Honor.</p>
+</desc>
+</top>
+<top>
+<num> 12 </num>
+<title> Torah</title>
+<movie>Pi</movie>
+<desc>
+<p>Oh, okay.</p>
+<p>Lenny Meyer. 	(Motioning to the cigarette) I'll put it out. 	(Which be does) So, what do you do?</p>
+<p>Um, I work with computers ...math.</p>
+<p>Really? What type of math?</p>
+<p>Number theory. Mostly research.</p>
+<p>Number theory? No way, I work in theory, too. Not traditional, though... I work with the Torah. Amazing.</p>
+<p>Yeah...</p>
+<p>Yeah. You know Hebrew is all numbers. It's all math.</p>
+<p>Hm.	</p>
+<p>Here, look...the ancient Jews used Hebrew as their numerical system. Each letter is a number.</p>
+<p>You see...The Hebrew "A," the number 1. The Hebrew "B," Bet, is two. You can take any Hebrew text and turn them into a long string of numbers.</p>
+</desc>
+</top>
+<top>
+<num> 13 </num>
+<title> Danny Terrio</title>
+<movie>Good Will Hunting</movie>
+<desc>
+<p>Buddy, two seconds ago you were ready to give me a jump.</p>
+<p>Well, I'm sorry to disappoint you, but I'm married and I have two children.</p>
+<p>I'm sure you do. You probably got a real nice house, nice car -- your book's a best seller.</p>
+<p>You're getting defensive, Will.</p>
+<p>Look, man. I don't care if you're putting from the rough. There are solid arguments that some of the greatest people in history were gay; Alexander the Great, Caesar, Shakespeare, Oscar Wilde, Napoleon, Gertrude Stein, not to mention Danny Terrio, not many straight men can dance like that.</p>
+<p>Who is "Danny Terrio?"</p>
+<p>If you wanna hit "Ramrod," take your shot. Take some pride in it. You go to church? So fuckin' what, God loves you. I mean, Christ. A guy as well known as you? By the time you put your disguise on and skulk out of the house Sunday nights you probably look like "Inspector Clouseau."</p>
+<p>Well, I can see this is pointless...</p>
+<p>You're getting defensive... Henry. And hey, chief -- tell the wife, at least. Christ, set her free.</p>
+<p>Henry?</p>
+<p>No. You know what, Gerry? This is why I don't do pro-bono anymore. It's not worth it to me.</p>
+</desc>
+</top>
+<top>
+<num> 14 </num>
+<title> monumental waste of time</title>
+<movie>Good Will Hunting</movie>
+<desc>
+<p>Of course.</p>
+<p>Okay. How?</p>
+<p>It's an integer proof.</p>
+<p>What? Hey, look buddy my time's almost up. You want me to sit here for an hour and write it out?</p>
+<p>Look, I'll give you the key steps to it but I'm not gonna do the whole thing.</p>
+<p>That would be a monumental waste of time, wouldn't it, Will?</p>
+<p>I think so.</p>
+<p>I happen to know so.</p>
+<p>You're thinking too hard. What if I did this?</p>
+<p>Now, what if I do this?</p>
+<p>Have you ever played checkers?</p>
+</desc>
+</top>
+<top>
+<num> 15 </num>
+<title> Game six of the World Series</title>
+<movie>Good Will Hunting</movie>
+<desc>
+<p>What? Do I wonder if I'd be better off if I never met my wife?</p>
+<p>No, that's okay. It's an important question. 'Cause you'll have your bad times, which wake you up to the good stuff you weren't paying attention to. And you can fail, as long as you're trying hard. But there's nothing worse than regret.</p>
+<p>You don't regret meetin' your wife?</p>
+<p>Why? Because of the pain I feel now? I have regrets Will, but I don't regret a singel day I spent with her.</p>
+<p>When did you know she was the one?</p>
+<p>October 21, 1975. Game six of the World Series. Biggest game in Red Sox history, Me and my friends slept out on the sidewalk all night to get tickets. We were sitting in a bar waiting for the game to start and in walks this girl. What a game that was. Tie game in the bottom of the tenth inning, in steps Carlton Fisk, hit a long fly ball down the left field line. Thirty-five thousand fans on their feet, screamin' at the ball to stay fair. Fisk is runnin' up the baseline, wavin' at the ball like a madman. It hits the foul pole, home run. Thirty-five thousand people went crazy. And I wasn't one of them.</p>
+<p>Where were you?</p>
+<p>I was havin' a drink with my future wife.</p>
+<p>You missed Pudge Fisk's homerun to have a drink with a woman you had never met?</p>
+<p>That's right.</p>
+<p>So wait a minute. The Red Sox haven't won a World Series since nineteen eighteen, you slept out for tickets, games gonna start in twenty minutes, in walks a girl you never seen before, and you give your ticket away?</p>
+</desc>
+</top>
+<top>
+<num> 16 </num>
+<title> keep your ears to the grindstone</title>
+<movie>Good Will Hunting</movie>
+<desc>
+<p>I have about seventy-three...</p>
+<p>Will you take a check?</p>
+<p>Come now... what do you think I am, a juvenile? You don't got any money on you right now. You think I'm gonna take a check?</p>
+<p>It's fine, John, I can cover the rest.</p>
+<p>That's right, you know.  He knows.</p>
+<p>You're suspect. I don't know what your reputation is, but after the shit you tried to pull today, you can bet I'll be looking into it. Any conversations you want to have with me heretofore, you can have with my attorney. Gentlemen, keep your ears to the grindstone.</p>
+<p>How's it goin'?</p>
+<p>Fine.</p>
+<p>Want me to take a look?</p>
+<p>No.</p>
+<p>C'mon, give me a peek and we'll go to the battin' cages.</p>
+</desc>
+</top>
+<top>
+<num> 17 </num>
+<title> gung-ho</title>
+<movie>Good Will Hunting</movie>
+<desc>
+<p>I don't love you.Will sits across from two N.S.A. AGENTS, OLIVER DYTRESS and ROBERT TAVANO. These guys are smug, clean cut, gung-ho and looking sharp in twin navy blue suits.So why do you think I should work for the National Security Agency?</p>
+</desc>
+</top>
+<top>
+<num> 18 </num>
+<title> slalom</title>
+<movie>Good Will Hunting</movie>
+<desc>
+<p>I don't know.</p>
+<p>Gerry says the meeting went well.</p>
+<p>I guess.</p>
+<p>What did you think?</p>
+<p>What did I think?</p>
+<p>Say I'm working at N.S.A. Somebody puts a code on my desk, something nobody else can break. So I take a shot at it and maybe I break it. And I'm real happy with myself, 'cause I did my job well. But maybe that code was the location of some rebel army in North Africa or the Middle East. Once they have that location, they bomb the village where the rebels were hiding and fifteen hundred people I never had a problem with get killed. (rapid fire) Now the politicians are sayin' "send in the Marines to secure the area" 'cause they don't give a shit. It won't be their kid over there, gettin' shot. Just like it wasn't them when their number got called, 'cause they were pullin' a tour in the National Guard. It'll be some guy from Southie takin' shrapnel in the ass. And he comes home to find that the plant he used to work at got exported to the country he just got back from. And the guy who put the shrapnel in his ass got his old job, 'cause he'll work for fifteen cents a day and no bathroom breaks. Meanwhile my buddy from Southie realizes the only reason he was over there was so we could install a government that would sell us oil at a good price. And of course the oil companies used the skirmish to scare up oil prices so they could turn a quick buck. A cute, little ancillary benefit for them but it ain't helping my buddy at two-fifty a gallon. And naturally they're takin' their sweet time bringin' the oil back and maybe even took the liberty of hiring an alcoholic skipper who likes to drink seven and sevens and play slalom with the icebergs and it ain't too long 'til he hits one, spills the oil, and kills all the sea-life in the North Atlantic. So my buddy's out of work and he can't afford to drive so he's got to walk to the job interviews which sucks 'cause the shrapnel in his ass is givin' him chronic hemorrhoids. And meanwhile he's starvin' 'cause every time he tries to get a bite to eat the only blue-plate special they're servin' is North Atlantic scrod with Quaker State.</p>
+<p>So what'd I think? I'm holdin' out for somethin' better. I figure I'll eliminate the middle man. Why not just shoot my buddy, take his job and give it to his sworn enemy, hike up gas prices, bomb a village, club a baby seal, hit the hash pipe and join the National Guard? Christ, I could be elected President.</p>
+<p>Do you think you're alone?</p>
+<p>What?</p>
+<p>Do you have a soul-mate?</p>
+<p>Define that.</p>
+</desc>
+</top>
+<top>
+<num> 19 </num>
+<title> snowflakes</title>
+<movie>Pi</movie>
+<desc>
+<p>Hmmm.</p>
+<p>Something's going on, and it has to do with that number. The answer is there.</p>
+<p>Max, it's a bug.</p>
+<p>No. it's a pattern. A pattern is in that number</p>
+<p>Come with me.</p>
+<p>Listen to me. The Ancient Japanese considered the Go board to be a microcosm of the universe. Although when it is empty it appears to be simple and ordered, in fact, the possibilities of game play are endless. They say that no two Go games have ever been alike. Just like snowflakes. So, the Go board actually represents an extremely complex and chaotic universe. That is the truth of our world, Max. It can't be easily summed up with math. There is no simple pattern.</p>
+<p>But as a Go game progresses, the possibilities become smaller and smaller. The board does take on order. Soon, all moves are predictable.</p>
+<p>So?</p>
+<p>So, maybe, even though we're not sophisticated enough to be aware of it, there is an underlying order...a pattern, beneath every Go game. Maybe that pattern is like the pattern in the market, in the Torah. The two sixteen number.</p>
+<p>That is insanity, Max.</p>
+<p>Or maybe it's genius. I have to get that number.</p>
+</desc>
+</top>
+<top>
+<num> 20 </num>
+<title> stack of 286's</title>
+<movie>Pi</movie>
+<desc>
+<p>Monday, September first. Six-fifteen.</p>
+<p>The alchemist awakes.</p>
+<p>"Turn lead into gold, Max, lead into gold." Today, I find it.</p>
+<p>Heat's been getting to Euclid. Feel it most in the afternoon when I run the set. Have to keep the fans on all night from now on. Otherwise, everything is running topnotch. The stack of 286's is now faster than Columbia's computer science department. I spent a couple hundred dollars. Columbia's cost? Half a million?     (Small snicker) Ha...</p>
+<p>Max, Max! Can we do one?</p>
+<p>Jenna! Jenna!</p>
+<p>Oh, no.</p>
+<p>What's three hundred and twenty-two times four hundred and ninety-one.</p>
+<p>One hundred fifty-eight thousand, a hundred two. Right?</p>
+</desc>
+</top>
+<top>
+<num> 21 </num>
+<title> sunspot cycles</title>
+<movie>Pi</movie>
+<desc>
+<p>Jenna...</p>
+<p>Okay, seventy-three divided by twenty-two.</p>
+<p>Three point three one eight one eight one eight...</p>
+<p>Somewhere in there. Somewhere. I know it's right in front of me. The pattern. They say it's chaos, it can't be understood, too much complexity.</p>
+<p>History it's there. Lurking, shaping. structuring, hiding, right beneath the surface.</p>
+<p>The cycling of disease epidemics, the wax and wane of Caribou populations in the Arctic, sunspot cycles, the rise and fall of the Nile and yes! the New York Stock Exchange, they are all the same.</p>
+<p>I'll find this structure, this order, this perfection.</p>
+<p>Turn lead into gold. The first. Right here. Right here. With math. The numbers of the stock market are my lead. When I find the pattern, then I will find gold.</p>
+<p>Hello?</p>
+<p>Maximilian Cohen, please.</p>
+<p>Yeah?</p>
+</desc>
+</top>
+<top>
+<num> 22 </num>
+<title> Kabbalah</title>
+<movie>Pi</movie>
+<desc>
+<p>Max?</p>
+<p>Max Cohen.</p>
+<p>Cohen!     (Judging) Jewish?</p>
+<p>It's okay. I'm a Jew, too. Do you practice?</p>
+<p>No, I'm not interested in religion.</p>
+<p>Have you ever heard of Kabbalah?</p>
+<p>No.</p>
+<p>Jewish mysticism.</p>
+<p>I'm sorry, I'm very busy.</p>
+<p>I understand...it's just that it's a very exciting time in our history. Right now is a critical moment in time.</p>
+<p>Really?</p>
+</desc>
+</top>
+<top>
+<num> 23 </num>
+<title> Tefillin</title>
+<movie>Pi</movie>
+<desc>
+<p>No.</p>
+<p>Jewish mysticism.</p>
+<p>I'm sorry, I'm very busy.</p>
+<p>I understand...it's just that it's a very exciting time in our history. Right now is a critical moment in time.</p>
+<p>Really?</p>
+<p>Yes, it's very exciting. Have you ever put on Tefillin?</p>
+<p>Tefillin. You know Tefillin. I know it looks strange. But it's an amazing tradition that has a tremendous amount of power. It's a mitzvah for all Jewish men to do. Mitzvahs, good deeds, are spiritual food for our hearts and our heads.</p>
+<p>They purify us and bring us closer to God. You want to try it?</p>
+<p>I gotta go...</p>
+<p>Are you okay? Max? Max?</p>
+<p>I'm sorry, bye.</p>
+</desc>
+</top>
+<top>
+<num> 24 </num>
+<title> Fibonacci sequence</title>
+<movie>Pi</movie>
+<desc>
+<p>The Torah is just a long string of numbers. Some say that it's a long code sent to us from God.</p>
+<p>Kind of interesting.</p>
+<p>Yeah, like take the Hebrew word for, say, the Garden of Eden, Kadem. Kuf, Dalei Mem...Kuf is a hundred. Daled, four Mem, forty. They equal one hundred and forty-four. Then take the tree of knowledge...in the garden, Aat Ha Haim, it equals two hundred and thirty-three. Now you can take that number and...</p>
+<p>They're Fibonacci numbers.</p>
+<p>Huh?</p>
+<p>The Fibonacci sequence. Italian mathematician, thirteenth century. If you divide a hundred and forty-four into two hundred and thirty-three, it approaches theta.</p>
+<p>Theta?</p>
+<p>The Greek symbol for the golden ratio. The golden spiral.</p>
+<p>You're right, I never saw that before. That's the series you find in nature. Like the face of a sunflower.</p>
+<p>Wherever there's spirals.</p>
+<p>You see, there's math everywhere.</p>
+</desc>
+</top>
+<top>
+<num> 25 </num>
+<title> mitzvah</title>
+<movie>Pi</movie>
+<desc>
+<p>Jewish mysticism.</p>
+<p>I'm sorry, I'm very busy.</p>
+<p>I understand...it's just that it's a very exciting time in our history. Right now is a critical moment in time.</p>
+<p>Really?</p>
+<p>Yes, it's very exciting. Have you ever put on Tefillin?</p>
+<p>Tefillin. You know Tefillin. I know it looks strange. But it's an amazing tradition that has a tremendous amount of power. It's a mitzvah for all Jewish men to do. Mitzvahs, good deeds, are spiritual food for our hearts and our heads.</p>
+<p>They purify us and bring us closer to God. You want to try it?</p>
+<p>I gotta go...</p>
+<p>Are you okay? Max? Max?</p>
+<p>I'm sorry, bye.</p>
+<p>Well, maybe some other time.</p>
+</desc>
+</top>
+<top>
+<num> 26 </num>
+<title> Go games</title>
+<movie>Pi</movie>
+<desc>
+<p>Hmmm.</p>
+<p>Something's going on, and it has to do with that number. The answer is there.</p>
+<p>Max, it's a bug.</p>
+<p>No. it's a pattern. A pattern is in that number</p>
+<p>Come with me.</p>
+<p>Listen to me. The Ancient Japanese considered the Go board to be a microcosm of the universe. Although when it is empty it appears to be simple and ordered, in fact, the possibilities of game play are endless. They say that no two Go games have ever been alike. Just like snowflakes. So, the Go board actually represents an extremely complex and chaotic universe. That is the truth of our world, Max. It can't be easily summed up with math. There is no simple pattern.</p>
+<p>But as a Go game progresses, the possibilities become smaller and smaller. The board does take on order. Soon, all moves are predictable.</p>
+<p>So?</p>
+<p>So, maybe, even though we're not sophisticated enough to be aware of it, there is an underlying order...a pattern, beneath every Go game. Maybe that pattern is like the pattern in the market, in the Torah. The two sixteen number.</p>
+<p>That is insanity, Max.</p>
+<p>Or maybe it's genius. I have to get that number.</p>
+</desc>
+</top>
+<top>
+<num> 27 </num>
+<title> acacia tree</title>
+<movie>Pi</movie>
+<desc>
+<p>Mr. Cohen? Mr. Cohen? Please stop for a second Mr. Cohen?</p>
+<p>Damn it already! Stop following me. I'm not interested in your money. I'm searching for a way to understand our world. I'm searching for perfection. I don't deal with mediocre materialistic people like you!</p>
+<p>I'm sorry. I'm very sorry. I admit I've been a bit too aggressive. But all I ask is for five minutes of your time. Here...</p>
+<p>...a stopwatch. Already ticking. Allow me the four and a half minutes left Let me tell you what I want. Let me tell you what I can offer you. Afterwards, if you don't want to talk to me, then fine, we part as friends and I promise that you will never see me again. That's fair, isn't it?</p>
+<p>Go.</p>
+<p>Good. It's funny, even though we have different aims and different goals we're actually incredibly alike. We both seek the same thing—perfection. I know... clearly we're seeking different types of perfection, but that is what makes us perfect candidates for a fruitful partnership. If you let me, I can be your greatest ally. Take the acacia tree...in East Africa. It is the most prevalent plant in all of Kenya because it has managed to secure its niche by defeating its major predator, the giraffe. To accomplish this, the tree has made a contract with a highly specialized red ant. The tree has evolved giant spores which act as housing for the ants In return for shelter, the ants supply defense. When a giraffe starts to eat the tree's leaves, the shaking branch acts like an alarm. The ants charge out and secrete an acid onto the giraffe's tongue. The giraffe learns its lesson and never returns. Without each other, the tree would be picked dry and the ants would have no shade from the brutal African sun Both would die. But with each other, they succeed, they survive, they surpass. They have different aims, different goals but they work together. Max, we would like to establish a mutually benefiting alliance with you.</p>
+<p>I'm not interested.</p>
+<p>Allow me to dose.</p>
+<p>As a sign of good faith we wish to offer you this.</p>
+<p>I told you I don't want money.</p>
+<p>The suitcase isn't filled with fifties or gold or diamonds. Just silicon. A Ming Mecca chip.</p>
+</desc>
+</top>
+<top>
+<num> 28 </num>
+<title> Ming Mecca</title>
+<movie>Pi</movie>
+<desc>
+<p> Good. It's funny, even though we have different aims and different goals we're actually incredibly alike. We both seek the same thing—perfection. I know... clearly we're seeking different types of perfection, but that is what makes us perfect candidates for a fruitful partnership. If you let me, I can be your greatest ally. Take the acacia tree...in East Africa. It is the most prevalent plant in all of Kenya because it has managed to secure its niche by defeating its major predator, the giraffe. To accomplish this, the tree has made a contract with a highly specialized red ant. The tree has evolved giant spores which act as housing for the ants In return for shelter, the ants supply defense. When a giraffe starts to eat the tree's leaves, the shaking branch acts like an alarm. The ants charge out and secrete an acid onto the giraffe's tongue. The giraffe learns its lesson and never returns. Without each other, the tree would be picked dry and the ants would have no shade from the brutal African sun Both would die. But with each other, they succeed, they survive, they surpass. They have different aims, different goals but they work together. Max, we would like to establish a mutually benefiting alliance with you.</p>
+<p>I'm not interested.</p>
+<p>Allow me to dose.</p>
+<p>As a sign of good faith we wish to offer you this.</p>
+<p>I told you I don't want money.</p>
+<p>The suitcase isn't filled with fifties or gold or diamonds. Just silicon. A Ming Mecca chip.</p>
+<p>Ming Mecca. They're not declassified.</p>
+<p>You're right. They're not. But Lancet-Percy has many friends. Come here, take a look.</p>
+<p>What do...do...</p>
+<p>Beautiful, isn't it? You know how rare...are you okay?</p>
+<p>Yeah, I got to go.</p>
+</desc>
+</top>
+<top>
+<num> 29 </num>
+<title> Survival of the fittest</title>
+<movie>Pi</movie>
+<desc>
+<p>C'mon! I know who you are. You're not gonna save the world.</p>
+<p>Look, Max...	</p>
+<p>My God, what are you doing?</p>
+<p>Information is the private language of Capital. We tried to establish a symbiotic relationship but if you choose to compete and enter our niche we are forced to comply with the laws of nature.</p>
+<p>You can't kill me!</p>
+<p>C'mon, Max. You don't get it. I don't give a shit about you. I only care about what's in your fucking head. If you won't help us help yourself, then I'll have only one choice. Destroy the competition. I'll take you out of the game. Survival of the fittest, Max. And we've got the gun.</p>
+<p>You bastards! You stupid bastards!</p>
+<p>Farrouhk!</p>
+<p>He's sick! He's sick!</p>
+<p>Max!</p>
+<p>C'mon...</p>
+</desc>
+</top>
+<top>
+<num> 30 </num>
+<title> Ten Commandments that God gave to Moses</title>
+<movie>Pi</movie>
+<desc>
+<p>Give us the number!</p>
+<p>Screw you!</p>
+<p>Okay, okay! Lenny, easy! Max, I'll tell you what's going on. Just calm down. 	(Deep breath, then) The Talmud tells us it began two thousand years ago, when the Romans destroyed the second temple.</p>
+<p>What are you...</p>
+<p>Just give me a chance. You'll understand everything if you listen.</p>
+<p>The Romans also murdered all of our priest-hood—the Cohanim—the Cohens, and with their deaths they destroyed our greatest secret. In the center of the great temple was the holy of holies which was the heart of Jewish life. This was the earthly residence for our God. The one God. It contained the ark of the Tabernacle which stored the original Ten Commandments that God gave to Moses. Only one man could enter this space once a year on the holiest day of the year, Yom Kippur On the Day of Atonement, all of Israel would descend upon Jerusalem to witness the High Cohen's trip into the holy of holies. If the holy man was pure he would reemerge a few moments later and Israel was secured a prosperous year. It meant that we were one yea r closer to the messianic age. Closer to the return of the Garden of Eden. But if he was impure, he would die instantly and it meant that we were doomed. The High Cohen had a single ritual to perform in the holy of holies. He had to intone a single word.</p>
+<p>So?</p>
+<p>That word was the true name of God.</p>
+<p>Yeah...</p>
+<p>The true name, which only the Cohanim knew, was two hundred and sixteen letters long.</p>
+<p>You're telling me that the number in my head is the name of God!?</p>
+</desc>
+</top>
+<top>
+<num> 31 </num>
+<title> Day of Atonement</title>
+<movie>Pi</movie>
+<desc>
+<p>Give us the number!</p>
+<p>Screw you!</p>
+<p>Okay, okay! Lenny, easy! Max, I'll tell you what's going on. Just calm down. 	(Deep breath, then) The Talmud tells us it began two thousand years ago, when the Romans destroyed the second temple.</p>
+<p>What are you...</p>
+<p>Just give me a chance. You'll understand everything if you listen.</p>
+<p>The Romans also murdered all of our priest-hood—the Cohanim—the Cohens, and with their deaths they destroyed our greatest secret. In the center of the great temple was the holy of holies which was the heart of Jewish life. This was the earthly residence for our God. The one God. It contained the ark of the Tabernacle which stored the original Ten Commandments that God gave to Moses. Only one man could enter this space once a year on the holiest day of the year, Yom Kippur On the Day of Atonement, all of Israel would descend upon Jerusalem to witness the High Cohen's trip into the holy of holies. If the holy man was pure he would reemerge a few moments later and Israel was secured a prosperous year. It meant that we were one yea r closer to the messianic age. Closer to the return of the Garden of Eden. But if he was impure, he would die instantly and it meant that we were doomed. The High Cohen had a single ritual to perform in the holy of holies. He had to intone a single word.</p>
+<p>So?</p>
+<p>That word was the true name of God.</p>
+<p>Yeah...</p>
+<p>The true name, which only the Cohanim knew, was two hundred and sixteen letters long.</p>
+<p>You're telling me that the number in my head is the name of God!?</p>
+</desc>
+</top>
+<top>
+<num> 32 </num>
+<title> holy of holies</title>
+<movie>Pi</movie>
+<desc>
+<p>Give us the number!</p>
+<p>Screw you!</p>
+<p>Okay, okay! Lenny, easy! Max, I'll tell you what's going on. Just calm down. 	(Deep breath, then) The Talmud tells us it began two thousand years ago, when the Romans destroyed the second temple.</p>
+<p>What are you...</p>
+<p>Just give me a chance. You'll understand everything if you listen.</p>
+<p>The Romans also murdered all of our priest-hood—the Cohanim—the Cohens, and with their deaths they destroyed our greatest secret. In the center of the great temple was the holy of holies which was the heart of Jewish life. This was the earthly residence for our God. The one God. It contained the ark of the Tabernacle which stored the original Ten Commandments that God gave to Moses. Only one man could enter this space once a year on the holiest day of the year, Yom Kippur On the Day of Atonement, all of Israel would descend upon Jerusalem to witness the High Cohen's trip into the holy of holies. If the holy man was pure he would reemerge a few moments later and Israel was secured a prosperous year. It meant that we were one yea r closer to the messianic age. Closer to the return of the Garden of Eden. But if he was impure, he would die instantly and it meant that we were doomed. The High Cohen had a single ritual to perform in the holy of holies. He had to intone a single word.</p>
+<p>So?</p>
+<p>That word was the true name of God.</p>
+<p>Yeah...</p>
+<p>The true name, which only the Cohanim knew, was two hundred and sixteen letters long.</p>
+<p>You're telling me that the number in my head is the name of God!?</p>
+</desc>
+</top>
+<top>
+<num> 33 </num>
+<title> messianic age</title>
+<movie>Pi</movie>
+<desc>
+<p>Give us the number!</p>
+<p>Screw you!</p>
+<p>Okay, okay! Lenny, easy! Max, I'll tell you what's going on. Just calm down. 	(Deep breath, then) The Talmud tells us it began two thousand years ago, when the Romans destroyed the second temple.</p>
+<p>What are you...</p>
+<p>Just give me a chance. You'll understand everything if you listen.</p>
+<p>The Romans also murdered all of our priest-hood—the Cohanim—the Cohens, and with their deaths they destroyed our greatest secret. In the center of the great temple was the holy of holies which was the heart of Jewish life. This was the earthly residence for our God. The one God. It contained the ark of the Tabernacle which stored the original Ten Commandments that God gave to Moses. Only one man could enter this space once a year on the holiest day of the year, Yom Kippur On the Day of Atonement, all of Israel would descend upon Jerusalem to witness the High Cohen's trip into the holy of holies. If the holy man was pure he would reemerge a few moments later and Israel was secured a prosperous year. It meant that we were one yea r closer to the messianic age. Closer to the return of the Garden of Eden. But if he was impure, he would die instantly and it meant that we were doomed. The High Cohen had a single ritual to perform in the holy of holies. He had to intone a single word.</p>
+<p>So?</p>
+<p>That word was the true name of God.</p>
+<p>Yeah...</p>
+<p>The true name, which only the Cohanim knew, was two hundred and sixteen letters long.</p>
+<p>You're telling me that the number in my head is the name of God!?</p>
+</desc>
+</top>
+<top>
+<num> 34 </num>
+<title> heretic </title>
+<movie>The Name of The Rose</movie>
+<desc>
+<p>when it comes to books and ideas. </p>
+<p>Bernardo Gui has spoken. She is a witch. </p>
+<p>I also know that anyone who disputes the verdict of an inquisitor is guilty of heresy. </p>
+<p>I, too, was an inquisitor, but in the early days, when the Inquisition strove to guide, not to punish. And once I had to preside at the trial of a man... whose only crime was to have translated a Greek book that conflicted with the holy scriptures. Bernardo Gui wanted to condemn him as heretic. I acquitted the man. Then Gui accused me of heresy for having defended him. I appealed to the pope. I was put in prison... tortured... and I recanted. </p>
+<p>And I'm still alive. </p>
+<p>cause me as much pain as you. But you can put an end to them before we even begin. Open the gates of your heart. Search the depths of your soul. Search! </p>
+<p>is the heretic responsible for these murders? </p>
+<p>I don't know anything! Stupid. Stupid. Me don't know anything. </p>
+<p>the girl or for myself? I did not know. With the dawn, came the envoys of the pope: our adversaries in the forthcoming debate. But it meant so little to me now. </p>
+<p>at last we meet for this long-awaited debate. We have all journeyed great distances in order to put an end to the dispute that has so gravely impaired the unity of our Holy Mother Church. Good people throughout Christendom are directing their gazes at these venerable walls anxiously awaiting our answer to the vexed question: "Did Christ, or did He not, own the clothes that He wore?" </p>
+<p>Our Holy Father, the pope, has authorized me and these, his faithful servants, to speak on his behalf. The question is not whether Christ was poor... but whether the Church should be poor! You Franciscans wish to see the clergy renounce its possessions... and surrender its richness... the abbeys dissipate their sacred treasures and hand over their fertile acres to the serfs.</p>
+</desc>
+</top>
+<top>
+<num> 35 </num>
+<title> lycanthropy</title>
+<movie>The Name of The Rose</movie>
+<desc>
+<p>And this is the version annotated by Umberto de Bologna. How many more rooms, huh? How many more books? No one should be forbidden to consult these books freely. </p>
+<p>precious, too fragile. </p>
+<p>It's because they often contain a wisdom different from ours... and ideas that could encourage us to doubt the infallibility of the word of God. </p>
+<p>Master? Wait for me! </p>
+<p>in a labyrinth. Are you still there? </p>
+<p>You see, Adso, that is the charm of a labyrinth. Adso, stay calm. Open a book... and read it aloud. Leave the room you're in... and keep turning left. </p>
+<p>"Love does not originate as an illness but is transformed into it when it becomes obsessive thoughts." "The Muslim theologian Ahmed Hasim states that the lovesick person does not want to be healed and his dreams cause irregular breathing and quicken the pulse." "He identifies amorous melancholia with lycanthropy, a disease that induces wolf-like behavior in its victims." "The lover's outer appearance begins to change. Soon his eyesight fails, his lips shrivel... and his face becomes covered with pustules and scabs." "Marks resembling the bites of a dog appear on his face... and he ends his days by prowling graveyards... at night like a wolf." Master? Master, I can see a lantern. </p>
+<p>almost there. </p>
+<p>of the Greek translator correctly... You did not think me so foolish as to surrender the parchment to the abbot without making a copy, right? "Manus supra idolum, age primum et septimus de quatuor" is what? </p>
+<p>the first and the seventh of four' </p>
+<p>teaching theology in Paris. </p>
+</desc>
+</top>
+<top>
+<num> 36 </num>
+<title> Alastor</title>
+<movie>The Name of The Rose</movie>
+<desc>
+<p>or anyone else in this abbey! </p>
+<p>sentence, My lord abbot. </p>
+<p>can find no reason to contest the just sentence of the Holy Inquisition. </p>
+<p>in his youth misinterpreted the message of the Ggspels. And he is guilty of having confused the love of poverty with the blind destruction of wealth and property. But, my lord abbot, he is innocent of the crimes that have bathed your abbey in blood. For brother Remigio cannot read Greek. And this entire mystery hinges on the theft and possession of a book written in Greek and hidden in some secret part of the library. </p>
+<p>been disputed by Brother William, we are obliged to extract the prisoner's confession to murder. Take him to the forge and show him the instruments. </p>
+<p>torture me. I can't live through it, not like Salvatore. </p>
+<p>I was inspired by the devil. I am inspired by the devil! Adrammelech, Lucifer, I summon you, lords of hell! Alastor! Azazel! </p>
+<p>infected sheep must now be consigned to the purifying flame. </p>
+<p>willl not put a stop to the crimes being committed in this abbey! Other monks will meet their deaths here... and they also will have black fingers and black tongues! </p>
+<p>We Franciscans are as appalled as you by Brother William's outburst. </p>
+<p>protect heretics and lead to murder. The debate is concluded. </p>
+</desc>
+</top>
+<top>
+<num> 37 </num>
+<title> black fingers and black tongues</title>
+<movie>The Name of The Rose</movie>
+<desc>
+<p>in his youth misinterpreted the message of the Ggspels. And he is guilty of having confused the love of poverty with the blind destruction of wealth and property. But, my lord abbot, he is innocent of the crimes that have bathed your abbey in blood. For brother Remigio cannot read Greek. And this entire mystery hinges on the theft and possession of a book written in Greek and hidden in some secret part of the library. </p>
+<p>been disputed by Brother William, we are obliged to extract the prisoner's confession to murder. Take him to the forge and show him the instruments. </p>
+<p>torture me. I can't live through it, not like Salvatore. </p>
+<p>I was inspired by the devil. I am inspired by the devil! Adrammelech, Lucifer, I summon you, lords of hell! Alastor! Azazel! </p>
+<p>infected sheep must now be consigned to the purifying flame. </p>
+<p>willl not put a stop to the crimes being committed in this abbey! Other monks will meet their deaths here... and they also will have black fingers and black tongues! </p>
+<p>We Franciscans are as appalled as you by Brother William's outburst. </p>
+<p>protect heretics and lead to murder. The debate is concluded. </p>
+<p>has relapsed into the errors of which he was formerly purged. Having sought yet again to shield a heretic from just punishment by the Inquisition, he will accompany me to Avignon for confirmation of my sentence by His Holiness Pope John. </p>
+<p>that Bernardo Gui was wrong! But the Antichrist was victorious once more... and nothing seemed to be able to hinder him further. </p>
+<p>let the flames purify each of us in his own heart. Let us return to what was and ever should be the office of this abbey. The preservation of knowledge. "Preservation," I say, not "search for." Because there is no progress in the history of knowledge... merely a continuous and sublime recapitulation. Let us now praise the Almighty that the bloody-eyed and cloven-hoofed Antichrist has been purged from our sacred precincts and our monastery has returned to peace. </p>
+</desc>
+</top>
+<top>
+<num> 38 </num>
+<title> second book of the Poetics of Aristotle</title>
+<movie>The Name of The Rose</movie>
+<desc>
+<p>"eidolon," as in the Greek. Meaning "image" or "reflection." Our own reflection! </p>
+<p>Good evening, Venerable Jorge. </p>
+<p>days past, William. </p>
+<p>have reached it ahead of us. </p>
+<p>your arrival at this abbey... but the short route through the labyrinth is not among them. So now, what is it that you want? </p>
+<p>was never written. A book entirely devoted to comedy, which you hate as much as you hate laughter. I want to see what is probably the sole surviving copy of the second book of the Poetics of Aristotle. </p>
+<p>would have been! </p>
+<p>Close, now! </p>
+<p>stimulates all the like and ridiculous by using vulgar persons and taking pleasure from their defects." </p>
+<p>to the boy. I'm sure he can read it. </p>
+<p>turn your poisoned pages, not without the protection of a glove, such as I am wearing. </p>
+</desc>
+</top>
+<top>
+<num> 39 </num>
+<title> economic modalities</title>
+<movie>Good Will Hunting</movie>
+<desc>
+<p>Hey, I'm the last guy to want to talk about school at the bar. But as long as you're here I want to "seize" the opportunity to ask you a question.</p>
+<p>Oh, I'm sure you covered it in your history class.</p>
+<p>To tell you the truth, I wasn't there much. The class was rather elementary.</p>
+<p>Elementary? Oh, I don't doubt that it was. I remember the class, it was just between recess and lunch.</p>
+<p>All right, are we gonna have a problem?</p>
+<p>There's no problem. I was just hoping you could give me some insight into the evolution of the market economy in the early colonies. My contention is that prior to the Revolutionary War the economic modalities especially of the southern colonies could most aptly be characterized as agrarian precapitalist and...</p>
+<p>Of course that's your contention. You're a first year grad student. You just finished some Marxian historian, Pete Garrison prob'ly, and so naturally that's what you believe until next month when you get to James Lemon and get convinced that Virginia and Pennsylvania were strongly entrepreneurial and capitalist back in 1740. That'll last until sometime in your second year, then you'll be in here regurgitating Gordon Wood about the Pre-revolutionary utopia and the capital-forming effects of military mobilization.</p>
+<p>Well, as a matter of fact, I won't, because Wood drastically underestimates the impact of--</p>
+<p>"Wood drastically underestimates the impact of social distinctions predicated upon wealth, especially inherited wealth..." You got that from "Work in Essex County," Page 421, right? Do you have any thoughts of your own on the subject or were you just gonna plagiarize the whole book for me?</p>
+<p>Look, don't try to pass yourself off as some kind of an intellect at the expense of my friend just to impress these girls.</p>
+<p>The sad thing is, in about 50 years you might start doin' some thinkin' on your own and by then you'll realize there are only two certainties in life.</p>
+</desc>
+</top>
+<top>
+<num> 40 </num>
+<title> southern colonies</title>
+<movie>Good Will Hunting</movie>
+<desc>
+<p>Hey, I'm the last guy to want to talk about school at the bar. But as long as you're here I want to "seize" the opportunity to ask you a question.</p>
+<p>Oh, I'm sure you covered it in your history class.</p>
+<p>To tell you the truth, I wasn't there much. The class was rather elementary.</p>
+<p>Elementary? Oh, I don't doubt that it was. I remember the class, it was just between recess and lunch.</p>
+<p>All right, are we gonna have a problem?</p>
+<p>There's no problem. I was just hoping you could give me some insight into the evolution of the market economy in the early colonies. My contention is that prior to the Revolutionary War the economic modalities especially of the southern colonies could most aptly be characterized as agrarian precapitalist and...</p>
+<p>Of course that's your contention. You're a first year grad student. You just finished some Marxian historian, Pete Garrison prob'ly, and so naturally that's what you believe until next month when you get to James Lemon and get convinced that Virginia and Pennsylvania were strongly entrepreneurial and capitalist back in 1740. That'll last until sometime in your second year, then you'll be in here regurgitating Gordon Wood about the Pre-revolutionary utopia and the capital-forming effects of military mobilization.</p>
+<p>Well, as a matter of fact, I won't, because Wood drastically underestimates the impact of--</p>
+<p>"Wood drastically underestimates the impact of social distinctions predicated upon wealth, especially inherited wealth..." You got that from "Work in Essex County," Page 421, right? Do you have any thoughts of your own on the subject or were you just gonna plagiarize the whole book for me?</p>
+<p>Look, don't try to pass yourself off as some kind of an intellect at the expense of my friend just to impress these girls.</p>
+<p>The sad thing is, in about 50 years you might start doin' some thinkin' on your own and by then you'll realize there are only two certainties in life.</p>
+</desc>
+</top>
+<top>
+<num> 41 </num>
+<title> agrarian precapitalist</title>
+<movie>Good Will Hunting</movie>
+<desc>
+<p>Hey, I'm the last guy to want to talk about school at the bar. But as long as you're here I want to "seize" the opportunity to ask you a question.</p>
+<p>Oh, I'm sure you covered it in your history class.</p>
+<p>To tell you the truth, I wasn't there much. The class was rather elementary.</p>
+<p>Elementary? Oh, I don't doubt that it was. I remember the class, it was just between recess and lunch.</p>
+<p>All right, are we gonna have a problem?</p>
+<p>There's no problem. I was just hoping you could give me some insight into the evolution of the market economy in the early colonies. My contention is that prior to the Revolutionary War the economic modalities especially of the southern colonies could most aptly be characterized as agrarian precapitalist and...</p>
+<p>Of course that's your contention. You're a first year grad student. You just finished some Marxian historian, Pete Garrison prob'ly, and so naturally that's what you believe until next month when you get to James Lemon and get convinced that Virginia and Pennsylvania were strongly entrepreneurial and capitalist back in 1740. That'll last until sometime in your second year, then you'll be in here regurgitating Gordon Wood about the Pre-revolutionary utopia and the capital-forming effects of military mobilization.</p>
+<p>Well, as a matter of fact, I won't, because Wood drastically underestimates the impact of--</p>
+<p>"Wood drastically underestimates the impact of social distinctions predicated upon wealth, especially inherited wealth..." You got that from "Work in Essex County," Page 421, right? Do you have any thoughts of your own on the subject or were you just gonna plagiarize the whole book for me?</p>
+<p>Look, don't try to pass yourself off as some kind of an intellect at the expense of my friend just to impress these girls.</p>
+<p>The sad thing is, in about 50 years you might start doin' some thinkin' on your own and by then you'll realize there are only two certainties in life.</p>
+</desc>
+</top>
+<top>
+<num> 42 </num>
+<title> Red Sox history</title>
+<movie>Good Will Hunting</movie>
+<desc>
+<p>What? Do I wonder if I'd be better off if I never met my wife?</p>
+<p>No, that's okay. It's an important question. 'Cause you'll have your bad times, which wake you up to the good stuff you weren't paying attention to. And you can fail, as long as you're trying hard. But there's nothing worse than regret.</p>
+<p>You don't regret meetin' your wife?</p>
+<p>Why? Because of the pain I feel now? I have regrets Will, but I don't regret a singel day I spent with her.</p>
+<p>When did you know she was the one?</p>
+<p>October 21, 1975. Game six of the World Series. Biggest game in Red Sox history, Me and my friends slept out on the sidewalk all night to get tickets. We were sitting in a bar waiting for the game to start and in walks this girl. What a game that was. Tie game in the bottom of the tenth inning, in steps Carlton Fisk, hit a long fly ball down the left field line. Thirty-five thousand fans on their feet, screamin' at the ball to stay fair. Fisk is runnin' up the baseline, wavin' at the ball like a madman. It hits the foul pole, home run. Thirty-five thousand people went crazy. And I wasn't one of them.</p>
+<p>Where were you?</p>
+<p>I was havin' a drink with my future wife.</p>
+<p>You missed Pudge Fisk's homerun to have a drink with a woman you had never met?</p>
+<p>That's right.</p>
+<p>So wait a minute. The Red Sox haven't won a World Series since nineteen eighteen, you slept out for tickets, games gonna start in twenty minutes, in walks a girl you never seen before, and you give your ticket away?</p>
+</desc>
+</top>
+<top>
+<num> 43 </num>
+<title>lords of hell! Alastor! Azazel!</title>
+<movie>The Name of The Rose</movie>
+<desc>
+<p>sentence, My lord abbot. </p>
+<p>can find no reason to contest the just sentence of the Holy Inquisition. </p>
+<p>in his youth misinterpreted the message of the Ggspels. And he is guilty of having confused the love of poverty with the blind destruction of wealth and property. But, my lord abbot, he is innocent of the crimes that have bathed your abbey in blood. For brother Remigio cannot read Greek. And this entire mystery hinges on the theft and possession of a book written in Greek and hidden in some secret part of the library. </p>
+<p>been disputed by Brother William, we are obliged to extract the prisoner's confession to murder. Take him to the forge and show him the instruments. </p>
+<p>torture me. I can't live through it, not like Salvatore. </p>
+<p>I was inspired by the devil. I am inspired by the devil! Adrammelech, Lucifer, I summon you, lords of hell! Alastor! Azazel! </p>
+<p>infected sheep must now be consigned to the purifying flame. </p>
+<p>willl not put a stop to the crimes being committed in this abbey! Other monks will meet their deaths here... and they also will have black fingers and black tongues! </p>
+<p>We Franciscans are as appalled as you by Brother William's outburst. </p>
+<p>protect heretics and lead to murder. The debate is concluded. </p>
+<p>has relapsed into the errors of which he was formerly purged. Having sought yet again to shield a heretic from just punishment by the Inquisition, he will accompany me to Avignon for confirmation of my sentence by His Holiness Pope John. </p>
+</desc>
+</top>
+<top>
+<num> 44 </num>
+<title> scientific rigor</title>
+<movie>Pi</movie>
+<desc>
+<p>But as a Go game progresses, the possibilities become smaller and smaller. The board does take on order. Soon, all moves are predictable.</p>
+<p>So?</p>
+<p>So, maybe, even though we're not sophisticated enough to be aware of it, there is an underlying order...a pattern, beneath every Go game. Maybe that pattern is like the pattern in the market, in the Torah. The two sixteen number.</p>
+<p>That is insanity, Max.</p>
+<p>Or maybe it's genius. I have to get that number.</p>
+<p>Hold on, you have to slow down. You're losing it, you have to take a breath. Listen to yourself. You're connecting a computer bug I had, a computer bug you might have had, and some religious hogwash. If you want to find the number two sixteen in the world, you'll be able to pull it out of anywhere. Two hundred and sixteen steps from your street comer to your front door. Two hundred and sixteen seconds you spend riding on the elevator. When your mind becomes obsessed with anything, it will filter everything else out and find examples of that thing everywhere. Three hundred and twenty, four hundred and fifty, twenty-three. Whatever! You've chosen two sixteen and you'll find it everywhere in nature. But Max, as soon as you discard scientific rigor, you are no longer a mathematician. You become a numerologist. What you need to do is take a break from your research. You need it. You deserve it Here's a hundred dollars, I want you to take it. If ,you won't take it, borrow it. Either way, take a break. Spend it however you like as long as it falls in the category of vacation. Real world stuff, okay. No math.</p>
+<p>Just try it. In a week you'll laugh about this. C'mon, Max. Think about it!</p>
+<p>Mr. Cohen? Mr. Cohen? Please stop for a second Mr. Cohen?</p>
+<p>Damn it already! Stop following me. I'm not interested in your money. I'm searching for a way to understand our world. I'm searching for perfection. I don't deal with mediocre materialistic people like you!</p>
+<p>I'm sorry. I'm very sorry. I admit I've been a bit too aggressive. But all I ask is for five minutes of your time. Here...</p>
+<p>...a stopwatch. Already ticking. Allow me the four and a half minutes left Let me tell you what I want. Let me tell you what I can offer you. Afterwards, if you don't want to talk to me, then fine, we part as friends and I promise that you will never see me again. That's fair, isn't it?</p>
+</desc>
+</top>
+<top>
+<num> 45 </num>
+<title> Dolcinites</title>
+<movie>The Name of The Rose</movie>
+<desc>
+<p>young Adelmo? </p>
+<p>scriptorium. But in a brotherly way, you understand? Not like... I mean, flesh can be tempted according to nature... or against nature. And they were not of the latter disposition.... if you ascertain my meaning. </p>
+<p>Watch out for the 'dracul' who cometh 'in futurum' to gnaw on your anima! Death is supreme. You contemplate the apocalypse? There, we have the devil. Ugly 'con' Salvatore, eh? My little brother, 'penitenziagite.' </p>
+<p>I don't have a good rhetoric. But men must do "penitence." I'm a monk. Saint Benedict! Saint Benedict! </p>
+<p>mentioning? </p>
+<p>once a heretic. "Penitenziagite" was the rallying cry of the Dolcinites. </p>
+<p>be poor. So they slaughtered the rich. You see, Adso... the step between ecstatic vision and sinful frenzy... is all too brief. </p>
+<p>translator? </p>
+<p>were more to the taste of the Dolcinites. Hardly a specialist of Aristotle. But, yes, you're right. We must keep an open mind. We are very fortunate to have such snowy ground here. It's often the parchment on which the criminal unwillingly writes his autograph. </p>
+<p>Now, what do you read from these footprints here? </p>
+<p>master. </p>
+</desc>
+</top>
+<top>
+<num> 46 </num>
+<title> no longer a mathematician. You become a numerologist. </title>
+<movie>Pi</movie>
+<desc>
+<p>ut as a Go game progresses, the possibilities become smaller and smaller. The board does take on order. Soon, all moves are predictable.</p>
+<p>So?</p>
+<p>So, maybe, even though we're not sophisticated enough to be aware of it, there is an underlying order...a pattern, beneath every Go game. Maybe that pattern is like the pattern in the market, in the Torah. The two sixteen number.</p>
+<p>That is insanity, Max.</p>
+<p>Or maybe it's genius. I have to get that number.</p>
+<p>Hold on, you have to slow down. You're losing it, you have to take a breath. Listen to yourself. You're connecting a computer bug I had, a computer bug you might have had, and some religious hogwash. If you want to find the number two sixteen in the world, you'll be able to pull it out of anywhere. Two hundred and sixteen steps from your street comer to your front door. Two hundred and sixteen seconds you spend riding on the elevator. When your mind becomes obsessed with anything, it will filter everything else out and find examples of that thing everywhere. Three hundred and twenty, four hundred and fifty, twenty-three. Whatever! You've chosen two sixteen and you'll find it everywhere in nature. But Max, as soon as you discard scientific rigor, you are no longer a mathematician. You become a numerologist. What you need to do is take a break from your research. You need it. You deserve it Here's a hundred dollars, I want you to take it. If ,you won't take it, borrow it. Either way, take a break. Spend it however you like as long as it falls in the category of vacation. Real world stuff, okay. No math.</p>
+<p>Just try it. In a week you'll laugh about this. C'mon, Max. Think about it!</p>
+<p>Mr. Cohen? Mr. Cohen? Please stop for a second Mr. Cohen?</p>
+<p>Damn it already! Stop following me. I'm not interested in your money. I'm searching for a way to understand our world. I'm searching for perfection. I don't deal with mediocre materialistic people like you!</p>
+<p>I'm sorry. I'm very sorry. I admit I've been a bit too aggressive. But all I ask is for five minutes of your time. Here...</p>
+<p>...a stopwatch. Already ticking. Allow me the four and a half minutes left Let me tell you what I want. Let me tell you what I can offer you. Afterwards, if you don't want to talk to me, then fine, we part as friends and I promise that you will never see me again. That's fair, isn't it?</p>
+</desc>
+</top>
+<top>
+<num> 47 </num>
+<title> wax and wane of Caribou populations in the Arctic</title>
+<movie>Pi</movie>
+<desc>
+<p>Jenna...</p>
+<p>Okay, seventy-three divided by twenty-two.</p>
+<p>Three point three one eight one eight one eight...</p>
+<p>Somewhere in there. Somewhere. I know it's right in front of me. The pattern. They say it's chaos, it can't be understood, too much complexity.</p>
+<p>History it's there. Lurking, shaping. structuring, hiding, right beneath the surface.</p>
+<p>The cycling of disease epidemics, the wax and wane of Caribou populations in the Arctic, sunspot cycles, the rise and fall of the Nile and yes! the New York Stock Exchange, they are all the same.</p>
+<p>I'll find this structure, this order, this perfection.</p>
+<p>Turn lead into gold. The first. Right here. Right here. With math. The numbers of the stock market are my lead. When I find the pattern, then I will find gold.</p>
+<p>Hello?</p>
+<p>Maximilian Cohen, please.</p>
+<p>Yeah?</p>
+</desc>
+</top>
+<top>
+<num> 48 </num>
+<title> rise and fall of the Nile</title>
+<movie>Pi</movie>
+<desc>
+<p>Jenna...</p>
+<p>Okay, seventy-three divided by twenty-two.</p>
+<p>Three point three one eight one eight one eight...</p>
+<p>Somewhere in there. Somewhere. I know it's right in front of me. The pattern. They say it's chaos, it can't be understood, too much complexity.</p>
+<p>History it's there. Lurking, shaping. structuring, hiding, right beneath the surface.</p>
+<p>The cycling of disease epidemics, the wax and wane of Caribou populations in the Arctic, sunspot cycles, the rise and fall of the Nile and yes! the New York Stock Exchange, they are all the same.</p>
+<p>I'll find this structure, this order, this perfection.</p>
+<p>Turn lead into gold. The first. Right here. Right here. With math. The numbers of the stock market are my lead. When I find the pattern, then I will find gold.</p>
+<p>Hello?</p>
+<p>Maximilian Cohen, please.</p>
+<p>Yeah?</p>
+</desc>
+</top>
+<top>
+<num> 49 </num>
+<title> the New York Stock Exchange</title>
+<movie>Pi</movie>
+<desc>
+<p>Jenna...</p>
+<p>Okay, seventy-three divided by twenty-two.</p>
+<p>Three point three one eight one eight one eight...</p>
+<p>Somewhere in there. Somewhere. I know it's right in front of me. The pattern. They say it's chaos, it can't be understood, too much complexity.</p>
+<p>History it's there. Lurking, shaping. structuring, hiding, right beneath the surface.</p>
+<p>The cycling of disease epidemics, the wax and wane of Caribou populations in the Arctic, sunspot cycles, the rise and fall of the Nile and yes! the New York Stock Exchange, they are all the same.</p>
+<p>I'll find this structure, this order, this perfection.</p>
+<p>Turn lead into gold. The first. Right here. Right here. With math. The numbers of the stock market are my lead. When I find the pattern, then I will find gold.</p>
+<p>Hello?</p>
+<p>Maximilian Cohen, please.</p>
+<p>Yeah?</p>
+</desc>
+</top>
+<top>
+<num> 50 </num>
+<title> Columbia's computer science department</title>
+<movie>Pi</movie>
+<desc>
+<p>It's on you though, until eight o'clock tonight when I win my money.</p>
+<p> Sean -- If the Professor calls about that job, just tell him, "Sorry, I had to go see about a girl."</p>
+<p>The alchemist awakes. </p>
+<p>"Turn lead into gold, Max, lead into gold." Today, I find it.</p>
+<p>Heat's been getting to Euclid. Feel it most in the afternoon when I run the set. Have to keep the fans on all night from now on. Otherwise, everything is running topnotch. The stack of 286's is now faster than Columbia's computer science department. I spent a couple hundred dollars. Columbia's cost? Half a million? 	(Small snicker) Ha...</p>
+<p>Max, Max! Can we do one?</p>
+<p>Jenna! Jenna!</p>
+<p>Oh, no.</p>
+<p>What's three hundred and twenty-two times four hundred and ninety-one.</p>
+<p>One hundred fifty-eight thousand, a hundred two. Right?</p>
+</desc>
+</top>
+</topics>
